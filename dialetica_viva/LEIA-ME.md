@@ -1,9 +1,11 @@
 # A Dialética Viva — Pedro Perússolo
 
 Pacote de trabalho para continuar a edição do livro no Claude Code.
-Estado em 25/09/2026: **251 páginas, 216 notas, 34 verbetes de glossário, 15 listas de referências + bibliografia geral.**
-Itens 4.1–4.5 resolvidos nesta rodada (ver §4). Faltam 4.6 (paginação das notas,
-precisa das fontes-primárias) e 4.7 (decisões do Pedro).
+Estado em 26/09/2026: **251 páginas, 216 notas, 34 verbetes de glossário, 15 listas de referências + bibliografia geral.**
+Itens 4.1–4.5 resolvidos; copidesque mecânico feito em 26/09 (ver
+`avaliacoes/copidesque.md`). Faltam 4.6 (~48/108 notas conferidas — Grosz
+nota 199, Kerslake nota 172 e Hegel/Miller 13-21 ainda bloqueados por fonte)
+e 4.7 (as dez notas de Hegel com numeração MIA, mesmo bloqueio).
 
 ---
 
