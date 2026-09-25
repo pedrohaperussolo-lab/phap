@@ -156,15 +156,28 @@ não listar as sub-seções nem manter os subtítulos de cada Estação no sumá
 que ficaram só na abertura de cada capítulo). `update_fields.py` (novo, ver §2) resolve
 o campo antes de exportar o PDF — **é por isso que o `rebuild.sh` mudou**, veja §1.
 
-### 4.6 Conferência de paginação — **EM ANDAMENTO, ~47/108 conferidas**
+### 4.6 Conferência de paginação — **EM ANDAMENTO, ~48/108 conferidas**
 Detalhe completo em `avaliacoes/conferencia_citacoes_4.6.md`. Regra: três
 veredictos, *confere* / *não confere* (com o valor certo) / *não verificável*.
-Nunca estimar página. 16 delas verificadas diretamente contra a fonte
-primária nesta sessão; ~31 (Irigaray, Lacan S11/20, Deleuze *Diferença e
-repetição*, Jardine, Simondon, e a página exata do Kojève) confirmadas pelo
-Pedro em 25/09/2026 depois de um episódio com um arquivo ("versão 8") que
-alegava essa conferência mas não a continha — ver a seção "Nota sobre o
-arquivo versão 8" e "Confirmado pelo Pedro" no arquivo de detalhe.
+Nunca estimar página. 17 delas verificadas diretamente contra a fonte
+primária nesta sessão (16 + nota 9 de Hegel/Miller, 26/09); ~31 (Irigaray,
+Lacan S11/20, Deleuze *Diferença e repetição*, Jardine, Simondon, e a página
+exata do Kojève) confirmadas pelo Pedro em 25/09/2026 depois de um episódio
+com um arquivo ("versão 8") que alegava essa conferência mas não a continha
+— ver a seção "Nota sobre o arquivo versão 8" e "Confirmado pelo Pedro" no
+arquivo de detalhe.
+
+**Hegel/Miller, *Science of Logic* (26/09)**: o Pedro subiu um PDF descrito
+como a tradução Miller (Prometheus Books, 1991). Confirmei a nota 9 (§62,
+conteúdo exato). As notas 13-21 continuam bloqueadas: esse PDF específico
+não é uma cópia paginada — é um texto reflowed de só 170 páginas para um
+livro de ~800, sem números de página originais, **e com trechos inteiros
+faltando de verdade** (confirmei renderizando a página como imagem e rodando
+OCR nela — não é bug de extração, o conteúdo não está no arquivo; os
+§§135-183, por exemplo, têm só os títulos das Observações, não o corpo).
+Ainda precisa de uma cópia com scan de página real (números de página
+visíveis) para fechar isso e destravar o item de 4.7. Detalhe em
+`avaliacoes/conferencia_citacoes_4.6.md`, seção "Hegel/Miller".
 
 **Técnica que funcionou bem:** buscar o marcador de parágrafo ("§475 [", "748 [")
 na fonte, não a frase citada — uma frase pode aparecer antes, como antecipação,

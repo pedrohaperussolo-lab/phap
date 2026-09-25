@@ -87,6 +87,7 @@ a fonte primária, é confirmação do autor.
 | 200 | Hillman, *Anima* | p.55 (edição inglesa, Spring) | conteúdo bate exatamente (tradução PT p.70, "por demais ampla para ser contida na noção de contrassexualidade... incide também na psique das mulheres") | só tenho a edição PT (Cultrix); página inglesa não conferível com esta cópia, mas a citação é real e a tradução é fiel |
 | 89 | Buber, *Gottesfinsternis* | Anhang, pp.155 ao fim | as duas citações alemãs ("unerlaubte Ueberschreitung der Grenzen"; "...Aeußerungen belegt") nas págs. 160-162, dentro do intervalo alegado | ok |
 | 198 | Braidotti, *Nomadic Subjects* | p.117 | "one cannot deconstruct a subjectivity one has never control led [sic, OCR]. Self-deter­mi n ation is the first step..." — número de página impresso "117" aparece literalmente na mesma página do PDF | ok, exato |
+| 9 | Hegel, *Science of Logic*, Miller | §62 | conteúdo bate: "specific negation"/"Notion", frase "the result essentially contains that from which it results" no §62, imediatamente antes do §63 | conteúdo ok; nº de página impressa não conferível (ver seção Hegel/Miller abaixo) |
 
 ## Confirmado pelo Pedro (25/09/2026) — não verificado independentemente por esta sessão
 
@@ -161,11 +162,34 @@ alegada, mas descarta erro grosseiro de localização do parágrafo.
   Drive, 17MB, ainda não processei) e Kerslake 2004 (artigo avulso, não
   localizado). (Nota 171 estava agrupada aqui mas está confirmada pelo
   Pedro junto com o bloco de Deleuze/*Diferença e repetição* — ver acima.)
-- Notas que citam especificamente **Hegel — Science of Logic, tradução
-  Miller (1969, George Allen & Unwin)** — o que o Pedro subiu foi a edição
-  di Giovanni (Cambridge, 2010), tradução diferente, paginação diferente.
-  Miller é quem a maioria das notas de Hegel (34-43, 71 e as dez do MIA)
-  cita especificamente.
+
+## Hegel/Miller, *Science of Logic* — as dez notas com numeração MIA (26/09/2026)
+
+O Pedro subiu no Drive um PDF descrito como "Hegel's Science of Logic —
+A. V. Miller — Prometheus Books, Later Printing, US, 1991" (444KB). Baixei e
+processei. Achado importante: **este PDF não é uma cópia paginada de uma
+edição impressa** — é um texto reflowed de ~170 páginas internas (um livro
+de ~800 páginas impressas não cabe em 170 páginas de texto corrido), sem
+nenhum número de página original preservado, e **com trechos inteiros do
+livro faltando de verdade** (não é falha de extração: renderizei as páginas
+como imagem e rodei OCR diretamente nelas — o conteúdo simplesmente não
+está lá). Confirmei isso abrindo a página 38 como imagem: entre "§134" e
+"§184" faltam os textos completos das Observações 1-4 ("The Opposition of
+Being and Nothing...", "Defectiveness of the Expression...", etc.) e o
+início da seção 2/3 — só os títulos aparecem, o corpo dos §§135-183 não
+existe no arquivo. Esse buraco cobre exatamente as notas 13-15 (§§181-183).
+Há outros buracos semelhantes cobrindo as notas 16-21 (§§191, 196, 210, 214,
+219, 221, 231 caem todos em faixas com o mesmo problema).
+
+Resultado: **apenas a nota 9 (§62) foi possível conferir** com este arquivo
+— conteúdo bate exatamente com o alegado ("specific negation"/"Notion", e a
+frase "the result essentially contains that from which it results",
+imediatamente antes de "§ 63" no texto). As notas 13-21 continuam
+bloqueadas: não é mais um problema de "fonte errada" (isto é a tradução
+Miller certa), é que este exemplar específico está incompleto. Ainda falta
+uma cópia paginada de verdade (scan com números de página visíveis, de
+qualquer edição reconhecida de Miller) para resolver 4.7 por completo — o
+que há hoje não resolve.
 
 ## Ainda não processadas nesta leva
 
