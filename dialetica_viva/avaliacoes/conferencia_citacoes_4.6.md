@@ -1,7 +1,8 @@
-# Conferência de citações (4.6) — primeira leva
+# Conferência de citações (4.6) — segunda leva
 
-Estado em 25/09/2026. Regra do LEIA-ME respeitada: três veredictos —
-**confere** / **não confere** / **não verificável**. Nunca estimar página.
+Estado em 25/09/2026 (atualizado). Regra do LEIA-ME respeitada: três
+veredictos — **confere** / **não confere** / **não verificável**. Nunca
+estimar página.
 
 Método: para cada nota com `[PAG]`, busquei a citação (de preferência pelo
 marcador de parágrafo "§NNN [" quando existe, que é muito mais confiável que
@@ -11,7 +12,18 @@ abaixo) na fonte primária baixada, e comparei a página real com a alegada.
 Fontes usadas: `docx_src`/`fontes_primarias/` (scratchpad da sessão, não
 commitado — são cópias de obras com direitos autorais, só para conferência).
 
-## Confere (13 notas, verificação direta)
+**Nota técnica sobre os arquivos grandes (>10MB) que o Pedro subiu no
+Drive**: `download_file_content` tem limite rígido de 10MB. Para os maiores,
+usei `read_file_content` (extrai só o texto, sem esse limite de tamanho do
+PDF original) — funciona bem para livros de até ~800 páginas com boa
+qualidade de OCR (Kojève, Hegel di Giovanni), mas **trunca por volta de
+175-220 mil caracteres em livros maiores** (Irigaray, Grosz): o começo do
+livro vem completo, o trecho citado — se estiver na segunda metade — não
+vem. Não é falha minha nem do Pedro, é um limite da ferramenta de extração;
+para esses dois casos específicos só resolve com o PDF completo por outra
+via.
+
+## Confere (16 notas, verificação direta)
 
 | Nota | Fonte | Alegado | Achado | Obs. |
 |---|---|---|---|---|
@@ -28,6 +40,17 @@ commitado — são cópias de obras com direitos autorais, só para conferência
 | 188 | idem | p.33 | bloco citado ("Há um consumo atual da nova máquina...") bate palavra por palavra com a p.33 | ok |
 | 189 | idem | pp.105-107 | conteúdo (disjunção inclusiva, "ou... ou") confere nessas págs. | tópico |
 | 200 | Hillman, *Anima* | p.55 (edição inglesa, Spring) | conteúdo bate exatamente (tradução PT p.70, "por demais ampla para ser contida na noção de contrassexualidade... incide também na psique das mulheres") | só tenho a edição PT (Cultrix); página inglesa não conferível com esta cópia, mas a citação é real e a tradução é fiel |
+| 89 | Buber, *Gottesfinsternis* | Anhang, pp.155 ao fim | as duas citações alemãs ("unerlaubte Ueberschreitung der Grenzen"; "...Aeußerungen belegt") nas págs. 160-162, dentro do intervalo alegado | ok |
+| 198 | Braidotti, *Nomadic Subjects* | p.117 | "one cannot deconstruct a subjectivity one has never control led [sic, OCR]. Self-deter­mi n ation is the first step..." — número de página impresso "117" aparece literalmente na mesma página do PDF | ok, exato |
+
+## Conteúdo confirmado, página não conferível com a cópia que tenho
+
+- **Nota 152** (Kojève, *Introduction to the Reading of Hegel*, pp.5 e 7): as
+  três frases citadas ("Human Desire must be directed...", "desire the
+  Desire of another...", "autonomous value") existem no texto, na ordem
+  certa, bem no início do livro — compatível com pp.5-7. A extração de texto
+  que tenho não preserva números de página impressos, então não dá pra
+  confirmar "5" e "7" exatamente, só a vizinhança e a ordem.
 
 ## Não-[PAG] mas relevante para 4.7 (confirmado)
 
@@ -60,12 +83,27 @@ alegada, mas descarta erro grosseiro de localização do parágrafo.
   notas citam (cap. 9 "Suture and Pure Difference" nem existe nessa edição).
   Preciso da edição inglesa (Verso, 2012) para conferir essas duas.
 
-## Não verificável (fonte não obtida ainda)
+## Não verificável (extração truncou antes do trecho citado)
 
-Notas 33, 44-58 (Irigaray, 17 notas), 89 (Buber), 152 (Kojève), 171-172
-(Kerslake), 197 (Jardine), 198 (Braidotti), 199 (Grosz), e todas as que
-citam especificamente a paginação **inglesa** de Hegel (Science of Logic,
-Miller/di Giovanni) — ver pedido de fontes em separado.
+- **Notas 33, 44-58** (Irigaray, *Speculum*, 17 notas, capítulo sobre
+  Antígona, pp.199-209): tenho o PDF (Feltrinelli 1989) mas a extração de
+  texto só trouxe ~428 mil caracteres e o nome "Antigone" aparece **uma
+  única vez** nisso tudo — o capítulo citado não veio. Ainda a maior
+  pendência isolada.
+- **Nota 199** (Grosz, *Volatile Bodies*, pp.164-165): mesmo problema —
+  a extração parou por volta de 55-60% do livro, antes do trecho citado.
+
+## Ainda faltando (fonte não obtida)
+
+- **Notas 171-172** (Kerslake, *Deleuze and the Unconscious* — tenho o PDF
+  no Drive, 17MB, ainda não processei) e Kerslake 2004 (artigo avulso, não
+  localizado).
+- **Nota 197** (Jardine, *Gynesis*) — não localizada ainda.
+- Notas que citam especificamente **Hegel — Science of Logic, tradução
+  Miller (1969, George Allen & Unwin)** — o que o Pedro subiu foi a edição
+  di Giovanni (Cambridge, 2010), tradução diferente, paginação diferente.
+  Miller é quem a maioria das notas de Hegel (34-43, 71 e as dez do MIA)
+  cita especificamente.
 
 ## Ainda não processadas nesta leva
 

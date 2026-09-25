@@ -156,7 +156,7 @@ não listar as sub-seções nem manter os subtítulos de cada Estação no sumá
 que ficaram só na abertura de cada capítulo). `update_fields.py` (novo, ver §2) resolve
 o campo antes de exportar o PDF — **é por isso que o `rebuild.sh` mudou**, veja §1.
 
-### 4.6 Conferência de paginação — **EM ANDAMENTO, 13/108 conferidas**
+### 4.6 Conferência de paginação — **EM ANDAMENTO, 16/108 conferidas**
 Detalhe completo em `avaliacoes/conferencia_citacoes_4.6.md`. Regra: três
 veredictos, *confere* / *não confere* (com o valor certo) / *não verificável*.
 Nunca estimar página.
