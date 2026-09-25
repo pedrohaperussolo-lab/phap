@@ -195,21 +195,25 @@ ferramenta MCP no fim desta sessão; tentar de novo é o próximo passo óbvio,
 cobre 9 notas.
 
 ### 4.7 Pontas soltas conhecidas
-- ~~**Giegerich (2026), *The airtight construction of a neurosis***~~ — **resolvido**:
-  conferi a própria página de copyright do PDF (baixado do Drive do Pedro),
-  "Copyright © 2026 Wolfgang Giegerich", ISBN 978-1-7388606-8-5 pbk — bate com
-  o que a nota 3 e a Estação 1 afirmam. Nada a corrigir.
-- **Dez notas** (6, 10, 14–22, 71) localizam Hegel por número de parágrafo "da edição
-  em hipertexto do Marxists Internet Archive" — numeração que não existe em edição
-  impressa. Trocar pela paginação de Miller ou di Giovanni.
-- **Política de citação da Nota introdutória** declara que Hegel e Deleuze são citados
-  "a partir das traduções brasileiras, quando disponíveis"; na prática há 26 ocorrências
-  de "tradução nossa a partir da versão inglesa", toda a *Ciência da lógica* vem do
-  inglês e Deleuze é citado em espanhol duas vezes.
-- ***Tipos psicológicos*** é citado sob dois sistemas de numeração de parágrafo
-  (§§903/905/906 e §§825/827), sem nota geral que avise.
-- **Subtítulo:** a folha de rosto e a capa dizem quatro nomes (Hegel, Jung, Giegerich,
-  Deleuze); Lacan entra como Excurso. Se quiser cinco, mude nos dois lugares.
+- ~~**Giegerich (2026)**~~ — **resolvido**: copyright do PDF ("© 2026 Wolfgang
+  Giegerich", ISBN 978-1-7388606-8-5 pbk) confirma o ano. Nada a corrigir.
+- ~~**Política de citação da Nota introdutória**~~ — **resolvido**: a Nota agora
+  documenta as duas exceções reais à regra "traduções brasileiras, quando
+  disponíveis" — a *Ciência da lógica* inteira vem da edição inglesa de Miller
+  (36 ocorrências de "tradução nossa a partir da versão inglesa" hoje, não mais
+  as 26 do diagnóstico original — cresceu com as inserções de 4.3), e dois
+  títulos de Deleuze sem tradução para o português (*Nietzsche y la filosofía*;
+  *Spinoza: filosofía práctica*) são citados em espanhol.
+- ~~***Tipos psicológicos*** com dois sistemas de numeração~~ — **resolvido**:
+  acrescentada a advertência geral na Nota introdutória (verbete "Símbolo" ora
+  §§903/905/906 da edição brasileira, ora §§825/827 da edição inglesa de Hull).
+- ~~**Subtítulo**~~ — **decidido**: o Pedro confirmou manter os quatro nomes
+  (Hegel, Jung, Giegerich, Deleuze); Lacan continua como Excurso. Nenhuma
+  mudança necessária na folha de rosto nem na capa.
+- **Pendente** — **Dez notas** (6, 10, 14–22, 71) localizam Hegel por número de
+  parágrafo "da edição em hipertexto do Marxists Internet Archive" — numeração
+  que não existe em edição impressa. Trocar pela paginação de Miller ou di
+  Giovanni exige a mesma fonte (Hegel em inglês) que 4.6 — mesmo bloqueio.
 
 ---
 
