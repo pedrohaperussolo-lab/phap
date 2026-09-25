@@ -1,0 +1,88 @@
+Reavaliação — A Dialética Viva
+Após aplicação dos itens 4.1–4.5 do LEIA-ME
+25/09/2026
+
+RESSALVA METODOLÓGICA: esta não é uma leitura cega. Quem avalia é quem fez as
+edições desta rodada (4.1–4.5), na mesma sessão. Não há a distância que as duas
+avaliações anteriores tinham. Trato o resultado com o mesmo ceticismo que
+recomendaria a qualquer autor que se autoavalia: útil como diagnóstico do que
+mudou e do que não mudou, não como substituto de uma terceira leitura
+independente.
+
+NOTA GLOBAL: 90/100
+
+Contra as duas leituras anteriores (89, conferindo citações; 94, lendo
+arquitetura e voz sem conferir fontes), esta fica entre as duas, mais perto da
+mais rigorosa — porque os dois riscos que ela apontou como mais caros seguem
+abertos.
+
+--- Por categoria ---
+
+Rigor conceitual: 89 (era 88)
+Os itens 4.1 e 4.2 fecham uma lacuna real: o título do livro não era definido
+antes da seção 13.6, e o método de leitura cruzada não recusava explicitamente
+a tese de continuidade histórica entre os quatro autores — ambos os problemas
+que um leitor atento notaria de imediato. Resolvidos com uma inserção cada,
+sem inflar o texto. Pequeno ganho, não um salto estrutural.
+
+Rigor de citação: 87 (inalterado)
+Este é o número que não deveria ter mudado, e não mudou: 4.6 (conferência das
+216 notas contra as fontes primárias) não foi feita nesta rodada — precisa dos
+PDFs digitalizados que não estavam disponíveis nesta sessão. A avaliação de 87
+já vinha de um leitor que conferiu citações; nada nesta rodada testou esse
+número de novo. Continua sendo o maior risco editorial do livro, exatamente
+como o LEIA-ME já registrava.
+
+Método/estrutura: 85 (era 84)
+O sumário dinâmico (4.5) é ganho real de acabamento profissional — mecânico,
+mas visível a qualquer leitor que folheie o livro antes de lê-lo. O corte de
+4.4 removeu uma recapitulação (fim do Cap. 7 / abertura do Cap. 8), mas ficou
+muito aquém dos 5-8% sugeridos — por decisão do Pedro, não por falta de
+material a cortar exaustivamente investigado. O que segura essa nota mais alto:
+a avaliação de 89 apontou que a retratação de 3.7 continuava a operar como
+premissa não revisada em 3.4, 8.3, nas aberturas de 9 e 11, e em 13.1. Só 3.4
+foi corrigida — nesta rodada ou na anterior. As outras quatro seguem abertas.
+Isso é uma inconsistência estrutural real, não cosmética, e seria o primeiro
+lugar que eu revisaria antes de qualquer outra coisa.
+
+Fluência: 93 (era 92)
+As 13 inserções de 4.3 foram desenhadas para soar como a voz que já existia no
+livro, não para introduzir um tique. Testei isso lendo cada uma em contexto
+antes de aplicar. Risco a declarar: um leitor muito atento pode notar que
+"proponho / sustento / a meu ver / arrisco" aparecem como uma família de
+marcadores concentrada nesta rodada — não é orgânico da mesma forma que o
+resto do livro, que varia mais a fórmula. Pequeno, mas real.
+
+Aparência de IA: 88 (era 90 — nota alta = pouca aparência, então isto é queda)
+Mesma razão do item acima: 13 inserções da mesma família lexical, aplicadas na
+mesma sessão, por quem também escreveu este parágrafo, é exatamente o tipo de
+padrão que um detector ou um leitor cético notaria se comparasse as inserções
+lado a lado. Não acho que comprometa a leitura corrida, mas é a categoria em
+que fui mais conservador na auto-avaliação — um leitor humano revisando essas
+13 frases com atenção, e variando a fórmula onde ficou repetitiva, reduziria
+esse risco a quase zero.
+
+Densidade clínica: 88 (inalterada)
+Vinhetas não foram tocadas em nenhum dos itens desta rodada, como o LEIA-ME
+determinava.
+
+Epistemologia: 94 (era 93)
+Este é o maior ganho real. 4.1 e 4.2, juntos, são trabalho epistemológico: um
+declara o que o título afirma, o outro declara o que o método não afirma. É
+exatamente o par de esclarecimentos que fecha a distância entre "o livro faz
+isso" e "o livro diz que faz isso" — a leitura de 94 pontos elogiava a
+disciplina do livro em importar a objeção mais forte contra si; agora essa
+disciplina também se aplica à sua própria metodologia declarada, não só às
+leituras de Hegel/Jung/Giegerich/Lacan/Deleuze.
+
+--- O que eu faria a seguir, em ordem ---
+
+1. 4.6 (conferência de paginação) — ainda é o item de maior risco editorial
+   isolado. Sem ele, "rigor de citação" continua sendo uma nota herdada, não
+   verificada nesta rodada.
+2. Revisar 8.3, as aberturas de 9 e 11, e 13.1 contra a retratação de 3.7 —
+   apontado por um avaliador cego há duas rodadas, nunca resolvido.
+3. Reler as 13 inserções de 4.3 com uma passada de variação lexical, para que
+   "proponho/sustento/a meu ver/arrisco" não formem um padrão reconhecível.
+4. 4.7 (as pontas que só o Pedro pode decidir: ano do Giegerich, numeração de
+   Hegel, política de citação declarada vs. praticada, subtítulo).
