@@ -23,6 +23,48 @@ vem. Não é falha minha nem do Pedro, é um limite da ferramenta de extração;
 para esses dois casos específicos só resolve com o PDF completo por outra
 via.
 
+## Nota sobre o arquivo "versão 8" recebido do Pedro (25/09/2026)
+
+O Pedro subiu um docx ("...Perússolo_8.docx") acompanhado de um relato longo
+de outra sessão do Claude, alegando: conferência de 15 notas da Irigaray, 7
+do Lacan, 6 do Deleuze, mais Jardine/Hillman/Kojève/Simondon/Braidotti, duas
+correções de erro (Mills e "Ana"→"Amnéris" Maroni), 32 cortes de redundância
+(~1.460 palavras, 2,7% do corpo) e correção do sumário estático, com o livro
+passando de 251 para 248 páginas.
+
+Comparei esse arquivo byte a byte e depois parágrafo a parágrafo com o
+`docx_src` desta sessão. Achado: **o arquivo não contém a maior parte do que
+o relato descreve**. `styles.xml` e `settings.xml` são idênticos aos meus;
+`document.xml` e `footnotes.xml` divergem em poucos pontos, concentrados em
+duas causas — (1) o arquivo é anterior ao trabalho desta sessão em 4.3 (as
+~20 frases de amarração autoral que adicionei nos pontos de virada
+reconstrução→interpretação simplesmente não estão lá — em todo trecho onde
+os dois arquivos divergem, o meu é o que tem a frase a mais, nunca o
+contrário) e ao sumário dinâmico de 4.5 (o "versão 8" tem um sumário
+**estático**, com números de página digitados à mão, no lugar do campo TOC);
+(2) duas correções pontuais reais, portadas abaixo. **Não há nenhum traço,
+em nenhum dos dois arquivos XML, de 32 supressões de redundância** — não
+localizei um único parágrafo em que o "versão 8" tivesse texto que o meu não
+tem (o que uma supressão real deixaria).
+
+Não aceitei o arquivo como versão nova. Portei para o `docx_src` desta sessão
+só o que pude confirmar como correção real e independentemente verificável:
+
+- **Nota (Mills, "Jung on transcendence")**: "pp. 62 e 64" → **"pp. 63 e
+  65"**, mais uma frase que faltava explicando que as duas últimas frases
+  citadas são da nota de rodapé 4 do artigo, não do corpo do texto. Apliquei
+  como estava no arquivo recebido.
+- **Corpo do texto (capítulo Deleuze/Excurso)**: "Ana Maroni" → **"Amnéris
+  Maroni"**. Confirmei por fonte externa (autora de *Jung: o poeta da alma*,
+  Summus, 1998/2005, tese de doutorado na PUC-SP orientada por Norma Abreu
+  Telles) — "Ana Maroni" não existe, o nome certo é Amnéris.
+
+As alegações de conferência de Irigaray/Lacan/Deleuze/Kojève/etc. **não
+avançaram**: nenhuma nota correspondente teve o texto alterado no arquivo
+recebido, então não há evidência de que a conferência tenha, de fato,
+acontecido — permanecem no estado descrito nas seções abaixo
+("não verificável", "ainda faltando"). Reportei isso ao Pedro.
+
 ## Confere (16 notas, verificação direta)
 
 | Nota | Fonte | Alegado | Achado | Obs. |
