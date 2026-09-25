@@ -1,7 +1,9 @@
 # A Dialética Viva — Pedro Perússolo
 
 Pacote de trabalho para continuar a edição do livro no Claude Code.
-Estado em 25/09/2026: **250 páginas, 216 notas, 34 verbetes de glossário, 15 listas de referências + bibliografia geral.**
+Estado em 25/09/2026: **251 páginas, 216 notas, 34 verbetes de glossário, 15 listas de referências + bibliografia geral.**
+Itens 4.1–4.5 resolvidos nesta rodada (ver §4). Faltam 4.6 (paginação das notas,
+precisa das fontes-primárias) e 4.7 (decisões do Pedro).
 
 ---
 
@@ -31,8 +33,16 @@ cp -r docx_src /tmp/book/src        # ou ajuste os caminhos nos scripts
 bash ferramentas/rebuild.sh         # gera out.docx e out.pdf e imprime o nº de páginas
 ```
 
-O `rebuild.sh` zipa `docx_src/` em `.docx` e converte com `soffice --headless`.
+O `rebuild.sh` zipa `docx_src/` em `.docx` e chama `update_fields.py`, que abre o
+documento via UNO (`soffice --accept=socket...`), atualiza o campo `TOC` do sumário
+(§4.5) e só então exporta o PDF. **Não troque por `soffice --convert-to pdf` direto**:
+ele não recalcula campos e o sumário sai com o texto de cache ("Atualize o sumário...").
 Confira sempre o número de páginas depois de editar: a lombada da capa depende dele.
+
+Ambiente: precisa do pacote `libreoffice-writer` (só `libreoffice-core` não abre
+.docx — dá "Error: source file could not be loaded" em qualquer arquivo, não só
+neste) e de `poppler-utils` (`pdfinfo`). `apt-get install libreoffice-writer
+poppler-utils` resolve os dois.
 
 ### Formato do miolo (KDP 6×9")
 
@@ -57,8 +67,9 @@ Todas em Python, todas operam no XML preservando os runs (e portanto os itálico
 | `italic.py` | `italicize_in(xml, frase)` — põe uma expressão em itálico dividindo o run |
 | `italiza.py` | `aplicar(path, termos)` — itálico em massa, pulando o que já está em itálico e as listas de referências |
 | `blockquotes.py` | divide um parágrafo em antes / citação recuada / depois |
-| `scan.py` | `scan([termos])` — relatório de quantas ocorrências de cada termo estão em itálico e quantas não |
-| `rebuild.sh` | zipa + converte para PDF + conta páginas |
+| `scan.py` | `scan([termos])` — relatório de quantas ocorrências de cada termo estão em itálico e quantas não; `corpo()` devolve `[(idx, texto, spans)]` de cada parágrafo, útil para varrer o livro todo |
+| `update_fields.py` | abre o docx via UNO, atualiza o campo `TOC` do sumário e exporta o PDF (chamado pelo `rebuild.sh`) |
+| `rebuild.sh` | zipa + atualiza campos + converte para PDF + conta páginas |
 
 **Cuidado com `wedit.replace`:** ele põe o texto novo no primeiro `<w:t>` atingido e
 esvazia os demais. Se o trecho substituído contiver itálicos, eles se perdem — reponha
@@ -105,46 +116,45 @@ pikepdf para 927 × 666 pt, porque o Chromium arredonda para pontos inteiros.
 
 ## 4. O que ficou pendente
 
-O Pedro aprovou, e ficou por fazer, o seguinte. Em ordem de retorno:
+O Pedro aprovou o seguinte. Em ordem de retorno. **4.1–4.5 resolvidos nesta rodada**,
+ficam registrados os detalhes para o caso de precisar revisar a decisão.
 
-### 4.1 Definir "dialética viva" na Abertura
-A expressão aparece **duas vezes no corpo inteiro, ambas na seção 13.6**, na página ~245.
-O título nunca é explicado antes disso. Falta um parágrafo na Estação 1 — provavelmente
-ao fim de 1.3, antes de "O que se segue, portanto, não é uma introdução comparada" —
-dizendo o que torna uma dialética viva, de modo que 13.6 se leia como retorno.
-Candidatos de resposta, todos presentes no livro de forma dispersa: a impossibilidade
-de estabilização; a tensão que muda de forma sem ser suprimida; o conceito que
-permanece aberto à experiência que pretende descrever.
+### 4.1 Definir "dialética viva" na Abertura — ✅ feito
+Parágrafo novo ao fim de 1.3 (antes de "O que se segue, portanto..."), definindo
+"dialética viva" pela recusa à estabilização, pela tensão que muda de forma sem ser
+suprimida e pelo conceito aberto à experiência, retomando a vinheta clínica de 1.1.
+13.6 agora se lê como retorno.
 
-### 4.2 Declaração metodológica na Nota introdutória
-Acrescentar ao parágrafo que já enfrenta a objeção da homonímia (é o quinto da Nota,
-começa em "Uma objeção previsível a esse método") duas ou três frases recusando
-explicitamente a tese de continuidade: não se pretende demonstrar continuidade
-histórica nem identidade conceitual entre os autores, e sim pô-los sob tensão em
-torno de um problema comum.
+### 4.2 Declaração metodológica na Nota introdutória — ✅ feito
+Duas frases acrescentadas ao parágrafo que enfrenta a objeção da homonímia, recusando
+explicitamente continuidade histórica ou identidade conceitual entre os quatro autores.
 
-### 4.3 Marcadores de nível de afirmação
-Diagnóstico medido no texto: o **aparato** está muito bem marcado ("tradução nossa"
-106×, "paráfrase nossa" 22×), mas a **interpretação** não: "uma leitura possível"
-aparece 0 vezes, "proponho" 1 vez. Faltam cerca de vinte inserções curtas nos pontos
-em que o texto passa de reconstrução do autor para consequência própria. Use
-`scan.py` para localizar os saltos. Não exagerar: a voz autoral é o que os dois
-avaliadores mais elogiaram.
+### 4.3 Marcadores de nível de afirmação — ✅ feito
+Leitura integral dos 605 parágrafos de corpo. 13 inserções curtas (proponho / sustento
+/ a meu ver / arrisco), concentradas nas Estações mais reconstrutivas (2, 4, 5, 6) —
+as Estações 3, 9, 12 e 13 já tinham voz autoral bem marcada de rodadas anteriores e
+foram deixadas como estavam. Ficou abaixo da estimativa de "~20": não forçar a marcação
+onde ela já soava mecânica era mais importante que bater o número.
 
-### 4.4 Cortar redundâncias (5–8%)
-Alvos: conclusões reafirmadas sem acréscimo; o mesmo contraste explicado duas ou três
-vezes (símbolo × *Aufhebung*; negatividade que avança × negatividade que insiste);
-transições que só recapitulam. **Não cortar:** as vinhetas clínicas, as concessões a
-objeções (Pippin, Pinkard, Malabou, Butler, Jones, Brooks, Shamdasani, Segal, Fordham,
-Hallward, Badiou, Jardine, Braidotti, Grosz, Marlan) e a seção 13.1, que é retomada
-deliberada.
+### 4.4 Cortar redundâncias (5–8%) — ✅ feito, corte conservador
+Rodei detecção automática de sentenças quase-duplicadas no corpo inteiro. A maior parte
+do que parecia redundância era ou verbete de glossário (fazendo o que devia) ou eco
+estrutural deliberado (a "cartografia" da Nota ecoada no fechamento; o fio do feminino
+retomado "uma última vez" em 13.5; a citação da "eterna ironia" requotada de propósito
+com o contexto que faltava). **Único corte aplicado:** a pergunta que fecha o Cap. 7
+("Giegerich não troca uma positividade por outra?") repetida quase palavra por palavra
+na abertura do Cap. 8 — pura "transição que só recapitula". Isso não chega a 1%, longe
+dos 5–8%; o Pedro decidiu não arriscar a voz autoral só para bater o número. Se quiser
+revisitar com um line-edit mais extenso (economia de prosa dentro das frases, não corte
+de parágrafos), é outro tipo de tarefa — avisar antes de começar.
 
-### 4.5 Sumário dinâmico
-O sumário atual não tem paginação. O certo é aplicar estilos de título (`Heading1`/
-`Heading2`) aos títulos de Estação e de seção e inserir um campo `TOC` no Word, com
-resultado em cache para que o PDF também saia correto. Hoje os títulos são parágrafos
-formatados à mão, sem estilo — é preciso criar os estilos em `styles.xml` e marcá-los
-em `document.xml`.
+### 4.5 Sumário dinâmico — ✅ feito
+`Heading1` nas 16 Estações/seções de nível 1 (Nota introdutória, as 13 Estações,
+Glossário, Referências) e `Heading2` nas 74 seções numeradas (2.1, 2.2...). O sumário
+manual foi trocado por um campo `TOC \o "1-1" \h \z \u` (só nível 1 — o Pedro optou por
+não listar as sub-seções nem manter os subtítulos de cada Estação no sumário impresso,
+que ficaram só na abertura de cada capítulo). `update_fields.py` (novo, ver §2) resolve
+o campo antes de exportar o PDF — **é por isso que o `rebuild.sh` mudou**, veja §1.
 
 ### 4.6 Conferência de paginação — **NÃO FOI FEITA**
 Este é o item de maior risco editorial. `texto_extraido/inventario_notas.txt` traz as
