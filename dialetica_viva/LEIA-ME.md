@@ -156,21 +156,49 @@ não listar as sub-seções nem manter os subtítulos de cada Estação no sumá
 que ficaram só na abertura de cada capítulo). `update_fields.py` (novo, ver §2) resolve
 o campo antes de exportar o PDF — **é por isso que o `rebuild.sh` mudou**, veja §1.
 
-### 4.6 Conferência de paginação — **NÃO FOI FEITA**
-Este é o item de maior risco editorial. `texto_extraido/inventario_notas.txt` traz as
-216 notas, com marca `[PAG]` nas 108 que trazem página ou parágrafo. Fontes primárias
-digitalizadas estão em `/root/.claude/uploads/9c828e7c-d516-57c5-a1ec-f39162111021/`
-(Irigaray it., Lacan S11 e S20, Deleuze *D&R*, Kojève, Sófocles, Buber, Hillman,
-Kerslake, Samuels, Braidotti, Jardine, Grosz, Simondon, Žižek *LTN*). O resto (Hegel,
-Jung, Giegerich, Neumann, Edinger, Fordham, Butler, Pippin, Pinkard, Mills) só por web.
-**Regra:** três veredictos, *confere* / *não confere* (com o valor certo) / *não
-verificável*. Nunca estimar página. Os .txt vêm de OCR e quebram palavras
-("ful ly", "control led"), então busque fragmentos curtos e tolere espaços.
+### 4.6 Conferência de paginação — **EM ANDAMENTO, 13/108 conferidas**
+Detalhe completo em `avaliacoes/conferencia_citacoes_4.6.md`. Regra: três
+veredictos, *confere* / *não confere* (com o valor certo) / *não verificável*.
+Nunca estimar página.
+
+**Técnica que funcionou bem:** buscar o marcador de parágrafo ("§475 [", "748 [")
+na fonte, não a frase citada — uma frase pode aparecer antes, como antecipação,
+sem ser o trecho citado (me enganou uma vez, na nota 143, corrigido).
+
+**Fontes já obtidas e conferidas** (baixadas via Google Drive do Pedro nesta
+sessão, guardadas só no scratchpad — não committar, são obras com direitos
+autorais): Hegel *Fenomenologia* (Meneses/Vozes), *O anti-Édipo* (Orlandi/Ed.34,
+2010 — a mesma edição citada, 10/10 notas conferidas batendo exato), Hillman
+*Anima* (só a edição PT/Cultrix, conteúdo bate mas página não é conferível
+contra a inglesa que a nota cita), Giegerich *The airtight construction...*
+(confirma o ano 2026, ver 4.7).
+
+**Fontes obtidas mas que não servem:** Žižek *Less Than Nothing* — só achei
+uma edição brasileira **condensada** (Boitempo, 8 capítulos), o cap. 9 que as
+notas 149 e 155 citam nem existe nela. Precisa da edição inglesa (Verso, 2012).
+
+**Fontes ainda faltando** (pedidas ao Pedro): Irigaray *Speculum* (17 notas —
+maior prioridade), Kojève, Buber, Kerslake, Braidotti, Jardine, Grosz, Hegel em
+**inglês** (Miller/di Giovanni — várias notas citam essa paginação
+especificamente), Deleuze *Diferença e repetição* (achado no Drive mas atrás
+de um atalho quebrado), *Mil Platôs*.
+
+**Ainda no Drive mas grandes demais para a ferramenta de download (>10MB):**
+Samuels *Jung and the Post-Jungians* (13MB), Hillman *Re-Visioning Psychology*
+(21MB), Hegel *Ciência da Lógica* vol. 2 (55MB), Simondon completo (148MB).
+Se o Pedro puder baixar esses direto do Drive dele e mandar, resolve sem
+precisar caçar de novo.
+
+**Lacan S11 e S20** estão no Drive (Zahar, tradução M.D. Magno — a mesma
+edição que as notas citam) mas o download travou por instabilidade da
+ferramenta MCP no fim desta sessão; tentar de novo é o próximo passo óbvio,
+cobre 9 notas.
 
 ### 4.7 Pontas soltas conhecidas
-- **Giegerich (2026), *The airtight construction of a neurosis***: o livro existe
-  (ISBN 978-1-7388-6068-5), mas **o ano não foi confirmado**. A nota 3 e a lista da
-  Estação 1 afirmam 2026.
+- ~~**Giegerich (2026), *The airtight construction of a neurosis***~~ — **resolvido**:
+  conferi a própria página de copyright do PDF (baixado do Drive do Pedro),
+  "Copyright © 2026 Wolfgang Giegerich", ISBN 978-1-7388606-8-5 pbk — bate com
+  o que a nota 3 e a Estação 1 afirmam. Nada a corrigir.
 - **Dez notas** (6, 10, 14–22, 71) localizam Hegel por número de parágrafo "da edição
   em hipertexto do Marxists Internet Archive" — numeração que não existe em edição
   impressa. Trocar pela paginação de Miller ou di Giovanni.
