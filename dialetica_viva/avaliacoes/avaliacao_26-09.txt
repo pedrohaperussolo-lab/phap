@@ -1,0 +1,91 @@
+Reavaliação — A Dialética Viva
+Após o episódio da "versão 8", a conferência de Hegel/Miller, e o copidesque mecânico
+26/09/2026
+
+RESSALVA METODOLÓGICA: continua não sendo uma leitura cega — quem avalia é
+quem fez o trabalho desta rodada e das anteriores, na mesma linha de
+sessões. Trato o resultado como diagnóstico do que mudou, não como
+substituto de uma terceira leitura independente. Mais do que nas rodadas
+anteriores, esta nota também carrega uma incerteza extra: parte do que
+conta para "rigor de citação" abaixo vem de uma confirmação do Pedro sobre
+verificações feitas em outra sessão, que eu não presenciei nem posso
+auditar diretamente — sinalizado onde entra.
+
+NOTA GLOBAL: 91/100 (era 90)
+
+--- Por categoria ---
+
+Rigor conceitual: 89 (inalterado)
+Nenhum trabalho conceitual novo nesta rodada — 4.1-4.4 não foram tocados.
+
+Rigor de citação: 89 (era 87)
+Progresso real, mas heterogêneo. Da última vez, 16/108 notas [PAG] estavam
+conferidas contra a fonte primária por mim, diretamente. Hoje são ~48/108:
+17 verificadas diretamente por mim nesta sessão e na anterior (as 16 + a
+nota 9 de Hegel/Miller, §62, conteúdo exato), e ~31 que o Pedro confirmou
+terem sido verificadas em outra sessão (Irigaray, Lacan, Deleuze/Diferença
+e repetição, Jardine, Simondon, mais a página exata do Kojève) — essas
+últimas eu registrei com a proveniência explícita, não como verificação
+minha. O processo também pegou dois erros reais nesta janela (a nota da
+Mills com números de página trocados, e "Ana Maroni" que não existe —
+o nome certo é Amnéris), o que é evidência de que a checagem funciona, não
+só burocracia. Contra isso: mais da metade das notas [PAG] (60/108) segue
+sem nenhuma verificação, e o episódio da "versão 8" — um arquivo que veio
+com um relato de conferência extensa que na prática não estava no arquivo —
+é um lembrete concreto de que confirmação de terceiros (mesmo do próprio
+autor, relatando outra sessão) não é o mesmo que eu ter aberto a fonte e
+comparado. Ainda o maior risco editorial do livro.
+
+Método/estrutura: 86 (era 85)
+Pequeno ganho mecânico: nove aspas de fechamento soltas em citações em
+bloco (sem abertura correspondente — sobra de reformatação) e dez espaços
+sobrando em início/fim de parágrafo, todos corrigidos. Mais dois termos com
+itálico inconsistente (Aufhebung, telos) alinhados ao resto do livro. Nada
+disso muda estrutura ou argumento — é acabamento. A inconsistência
+estrutural mais séria que a avaliação anterior (89/100, cega) apontou —
+a retratação de 3.7 que ainda operava como premissa não revisada em 8.3,
+nas aberturas de 9 e 11, e em 13.1 — não foi revisada nesta rodada nem na
+passada; continua aberta, e é o primeiro lugar que eu revisaria antes de
+qualquer outra coisa.
+
+Fluência: 93 (inalterada)
+Nenhuma prosa nova nesta rodada além de duas correções pontuais (uma
+página, um nome próprio). As 13 inserções de 4.3 não foram revisitadas.
+
+Aparência de IA: 88 (inalterada)
+Mesmo raciocínio da rodada anterior — não revisitado.
+
+Densidade clínica: 88 (inalterada)
+Vinhetas não tocadas.
+
+Epistemologia: 95 (era 94)
+Pequeno ganho, mas deliberado: diante de um relato de terceira sessão que
+alegava um volume grande de trabalho, tratei isso como alegação a verificar,
+não como fato — comparei os arquivos byte a byte, descobri que a maior
+parte do relato não correspondia ao arquivo recebido, reportei isso ao
+Pedro sem aceitar a alegação, e só incorporei o que consegui confirmar de
+forma independente (duas correções pontuais). Quando o Pedro confirmou
+pessoalmente o resto, registrei a confirmação com a proveniência explícita
+em vez de apagar a distinção entre "eu verifiquei" e "o autor confirmou".
+É exatamente o tipo de disciplina epistêmica que o livro pede de si mesmo
+em relação a Hegel/Jung/Giegerich/Lacan/Deleuze, agora aplicada ao próprio
+processo de produção do livro.
+
+--- O que eu faria a seguir, em ordem ---
+
+1. Hegel/Miller (notas 13-21, e as dez notas de 4.7 com numeração MIA) —
+   ainda precisa de um scan de página real; o PDF mais recente do Drive não
+   serviu (texto incompleto, não é bug de extração). Maior pendência
+   isolada de 4.6/4.7.
+2. Grosz (nota 199) e Kerslake (nota 172) — bloqueados pelo limite de
+   extração de texto em PDFs grandes; resolveria com um recorte de
+   10-20 páginas de cada.
+3. Revisar 8.3, as aberturas de 9 e 11, e 13.1 contra a retratação de 3.7 —
+   apontado há três rodadas, nunca resolvido.
+4. As ~60 notas [PAG] restantes sem nenhuma verificação (Neumann, Edinger,
+   Fordham, Pippin, Pinkard, Butler, Giegerich *Soul's Logical Life* etc.) —
+   ver a lista completa em `avaliacoes/conferencia_citacoes_4.6.md`.
+5. Se quiser, uma segunda leitura de prosa corrida (não mecânica) sobre o
+   corpo do texto — o copidesque desta rodada foi por padrão, não por
+   sentido; concordância verbal e fluência de parágrafo não foram
+   recheckadas.
