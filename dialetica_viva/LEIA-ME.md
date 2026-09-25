@@ -156,10 +156,15 @@ não listar as sub-seções nem manter os subtítulos de cada Estação no sumá
 que ficaram só na abertura de cada capítulo). `update_fields.py` (novo, ver §2) resolve
 o campo antes de exportar o PDF — **é por isso que o `rebuild.sh` mudou**, veja §1.
 
-### 4.6 Conferência de paginação — **EM ANDAMENTO, 16/108 conferidas**
+### 4.6 Conferência de paginação — **EM ANDAMENTO, ~47/108 conferidas**
 Detalhe completo em `avaliacoes/conferencia_citacoes_4.6.md`. Regra: três
 veredictos, *confere* / *não confere* (com o valor certo) / *não verificável*.
-Nunca estimar página.
+Nunca estimar página. 16 delas verificadas diretamente contra a fonte
+primária nesta sessão; ~31 (Irigaray, Lacan S11/20, Deleuze *Diferença e
+repetição*, Jardine, Simondon, e a página exata do Kojève) confirmadas pelo
+Pedro em 25/09/2026 depois de um episódio com um arquivo ("versão 8") que
+alegava essa conferência mas não a continha — ver a seção "Nota sobre o
+arquivo versão 8" e "Confirmado pelo Pedro" no arquivo de detalhe.
 
 **Técnica que funcionou bem:** buscar o marcador de parágrafo ("§475 [", "748 [")
 na fonte, não a frase citada — uma frase pode aparecer antes, como antecipação,
@@ -177,22 +182,11 @@ contra a inglesa que a nota cita), Giegerich *The airtight construction...*
 uma edição brasileira **condensada** (Boitempo, 8 capítulos), o cap. 9 que as
 notas 149 e 155 citam nem existe nela. Precisa da edição inglesa (Verso, 2012).
 
-**Fontes ainda faltando** (pedidas ao Pedro): Irigaray *Speculum* (17 notas —
-maior prioridade), Kojève, Buber, Kerslake, Braidotti, Jardine, Grosz, Hegel em
-**inglês** (Miller/di Giovanni — várias notas citam essa paginação
-especificamente), Deleuze *Diferença e repetição* (achado no Drive mas atrás
-de um atalho quebrado), *Mil Platôs*.
-
-**Ainda no Drive mas grandes demais para a ferramenta de download (>10MB):**
-Samuels *Jung and the Post-Jungians* (13MB), Hillman *Re-Visioning Psychology*
-(21MB), Hegel *Ciência da Lógica* vol. 2 (55MB), Simondon completo (148MB).
-Se o Pedro puder baixar esses direto do Drive dele e mandar, resolve sem
-precisar caçar de novo.
-
-**Lacan S11 e S20** estão no Drive (Zahar, tradução M.D. Magno — a mesma
-edição que as notas citam) mas o download travou por instabilidade da
-ferramenta MCP no fim desta sessão; tentar de novo é o próximo passo óbvio,
-cobre 9 notas.
+**Fontes ainda faltando**: Grosz (nota 199), Kerslake (nota 172), Hegel em
+**inglês** (Miller — várias notas citam essa paginação especificamente,
+di Giovanni não serve, é outra tradução), *Mil Platôs*. Irigaray, Kojève,
+Buber, Braidotti, Jardine, Simondon e Deleuze *Diferença e repetição* saíram
+desta lista — conferência confirmada pelo Pedro (ver acima).
 
 ### 4.7 Pontas soltas conhecidas
 - ~~**Giegerich (2026)**~~ — **resolvido**: copyright do PDF ("© 2026 Wolfgang

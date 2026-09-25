@@ -59,11 +59,14 @@ só o que pude confirmar como correção real e independentemente verificável:
   Summus, 1998/2005, tese de doutorado na PUC-SP orientada por Norma Abreu
   Telles) — "Ana Maroni" não existe, o nome certo é Amnéris.
 
-As alegações de conferência de Irigaray/Lacan/Deleuze/Kojève/etc. **não
-avançaram**: nenhuma nota correspondente teve o texto alterado no arquivo
-recebido, então não há evidência de que a conferência tenha, de fato,
-acontecido — permanecem no estado descrito nas seções abaixo
-("não verificável", "ainda faltando"). Reportei isso ao Pedro.
+As alegações de conferência de Irigaray/Lacan/Deleuze/Kojève/etc. não
+deixaram rastro no arquivo em si — reportei isso ao Pedro. Em resposta, o
+Pedro confirmou pessoalmente que todas essas verificações foram, de fato,
+feitas (presume-se que na sessão onde a conferência aconteceu, sem que o
+resultado tenha sido escrito de volta no docx) e pediu para não insistir na
+questão. Registrado abaixo, na seção "Confirmado pelo Pedro", com a
+proveniência explícita — não é verificação independente desta sessão contra
+a fonte primária, é confirmação do autor.
 
 ## Confere (16 notas, verificação direta)
 
@@ -85,14 +88,35 @@ acontecido — permanecem no estado descrito nas seções abaixo
 | 89 | Buber, *Gottesfinsternis* | Anhang, pp.155 ao fim | as duas citações alemãs ("unerlaubte Ueberschreitung der Grenzen"; "...Aeußerungen belegt") nas págs. 160-162, dentro do intervalo alegado | ok |
 | 198 | Braidotti, *Nomadic Subjects* | p.117 | "one cannot deconstruct a subjectivity one has never control led [sic, OCR]. Self-deter­mi n ation is the first step..." — número de página impresso "117" aparece literalmente na mesma página do PDF | ok, exato |
 
-## Conteúdo confirmado, página não conferível com a cópia que tenho
+## Confirmado pelo Pedro (25/09/2026) — não verificado independentemente por esta sessão
+
+O Pedro confirmou que estas notas foram conferidas contra a fonte primária
+(ver nota acima sobre o arquivo "versão 8"). Listado aqui por proveniência,
+não por conferência direta desta sessão:
+
+| Notas | Fonte | Alegado |
+|---|---|---|
+| 33, 44-58 (15 das 17) | Irigaray, *Speculum. L'altra donna* | pp. 199, 200, 201, 202, 205, 207, 208, 209 |
+| 154, 156, 159-163 | Lacan, *Le Séminaire, livre XX — Encore* | pp. 17, 98, 99, 99, 103, 107, 107 |
+| 166, 167, 168, 170, 171, 175, 204 | Deleuze, *Diferença e repetição* | pp. 8, 62, 108 (nota 55, sobre Jung), 159, 197, e a seção das quatro raízes em 41-42 |
+| 197 | Jardine, *Gynesis* | p. 217 |
+| 206 | Simondon, *L'individuation...* | p. 31 |
+
+Kojève (nota 152) e Braidotti (nota 198) já estavam na tabela "Confere"
+acima; a confirmação do Pedro fecha a lacuna de página exata do Kojève (ver
+abaixo) e traz uma variante adicional da Braidotti (p. 141).
+
+## Conteúdo confirmado
 
 - **Nota 152** (Kojève, *Introduction to the Reading of Hegel*, pp.5 e 7): as
   três frases citadas ("Human Desire must be directed...", "desire the
   Desire of another...", "autonomous value") existem no texto, na ordem
   certa, bem no início do livro — compatível com pp.5-7. A extração de texto
-  que tenho não preserva números de página impressos, então não dá pra
-  confirmar "5" e "7" exatamente, só a vizinhança e a ordem.
+  que tenho não preserva números de página impressos, então a localização
+  exata "5" e "7" depende da confirmação do Pedro acima, não de verificação
+  independente desta sessão.
+- **Nota 198** (Braidotti, *Nomadic Subjects*): variante de p. 141 confirmada
+  pelo Pedro, além da p. 117 já verificada diretamente (tabela "Confere").
 
 ## Não-[PAG] mas relevante para 4.7 (confirmado)
 
@@ -127,20 +151,16 @@ alegada, mas descarta erro grosseiro de localização do parágrafo.
 
 ## Não verificável (extração truncou antes do trecho citado)
 
-- **Notas 33, 44-58** (Irigaray, *Speculum*, 17 notas, capítulo sobre
-  Antígona, pp.199-209): tenho o PDF (Feltrinelli 1989) mas a extração de
-  texto só trouxe ~428 mil caracteres e o nome "Antigone" aparece **uma
-  única vez** nisso tudo — o capítulo citado não veio. Ainda a maior
-  pendência isolada.
-- **Nota 199** (Grosz, *Volatile Bodies*, pp.164-165): mesmo problema —
-  a extração parou por volta de 55-60% do livro, antes do trecho citado.
+- **Nota 199** (Grosz, *Volatile Bodies*, pp.164-165): a extração de texto
+  parou por volta de 55-60% do livro, antes do trecho citado. (Irigaray,
+  antes listada aqui, está confirmada pelo Pedro — ver seção acima.)
 
 ## Ainda faltando (fonte não obtida)
 
-- **Notas 171-172** (Kerslake, *Deleuze and the Unconscious* — tenho o PDF
-  no Drive, 17MB, ainda não processei) e Kerslake 2004 (artigo avulso, não
-  localizado).
-- **Nota 197** (Jardine, *Gynesis*) — não localizada ainda.
+- **Nota 172** (Kerslake, *Deleuze and the Unconscious* — tenho o PDF no
+  Drive, 17MB, ainda não processei) e Kerslake 2004 (artigo avulso, não
+  localizado). (Nota 171 estava agrupada aqui mas está confirmada pelo
+  Pedro junto com o bloco de Deleuze/*Diferença e repetição* — ver acima.)
 - Notas que citam especificamente **Hegel — Science of Logic, tradução
   Miller (1969, George Allen & Unwin)** — o que o Pedro subiu foi a edição
   di Giovanni (Cambridge, 2010), tradução diferente, paginação diferente.
@@ -151,6 +171,6 @@ alegada, mas descarta erro grosseiro de localização do parágrafo.
 
 Restam ~75 notas `[PAG]` de fontes que tenho mas não cheguei a conferir
 ainda por tempo: Neumann/Edinger/Fordham (*The Child*, *Ego and Archetype*),
-Pippin/Pinkard, Butler, Lacan S11/S20 (já baixados!), Deleuze *Diferença e
-repetição* (ainda não obtido), *Mil Platôs*, Simondon, Jung/Miller/Mills/
-Brooks/Segal/Drob/Whitehead. Trabalho em andamento, não abandonado.
+Pippin/Pinkard, Butler, Lacan S11/S20 (já baixados!), *Mil Platôs*,
+Jung/Miller/Mills/Brooks/Segal/Drob/Whitehead. Trabalho em andamento, não
+abandonado.
