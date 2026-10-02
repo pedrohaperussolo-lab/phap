@@ -72,6 +72,12 @@ EXTRA = [
  ("Jardine, Alice", r"Jardine"),
  ("Kerslake, Christian", r"Kerslake"),
  ("Maroni, Amnéris", r"Maroni"),
+ ("Castillejo, Irene Claremont de", r"Castillejo"),
+ ("Goldenberg, Naomi", r"Goldenberg"),
+ ("Rose, Jacqueline", r"\bRose\b"),
+ ("Rowland, Susan", r"Rowland"),
+ ("Wehr, Demaris S.", r"Wehr"),
+ ("Young-Eisendrath, Polly", r"Young-Eisendrath"),
 ]
 NAMES = NAMES + EXTRA
 
@@ -80,7 +86,7 @@ def norm(t):  # join hyphenated line breaks
 res={}
 for disp,pat in NAMES:
     rx=re.compile(pat)
-    pgs=[i+1 for i,t in enumerate(b) if 6<=i+1<=249 and rx.search(norm(t))]
+    pgs=[i+1 for i,t in enumerate(b) if 6<=i+1<=262 and rx.search(norm(t))]
     res[disp]=pgs
 res.update(OVERRIDE)
 

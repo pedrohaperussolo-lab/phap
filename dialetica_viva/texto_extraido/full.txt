@@ -40,16 +40,16 @@ Nota introdutória..............................................................
 10. Deleuze I — a diferença como positividade anterior à negação
     ................................................................................................172
 11. Deleuze II — devir-mulher como linha de fuga e ruptura com o
-    falogocentrismo......................................................................197
+    falogocentrismo......................................................................204
 12. Síntese tensa — o que Jung e Deleuze compartilham apesar de
-    tudo, e onde divergem irredutivelmente................................214
+    tudo, e onde divergem irredutivelmente................................227
 13. Fechamento — por que a dialética psicológica só continua
-    sendo psicologia enquanto permanece aberta........................230
+    sendo psicologia enquanto permanece aberta........................243
 
                                                   3
-Glossário......................................................................................250
-Referências...................................................................................259
-Índice onomástico........................................................................269
+Glossário......................................................................................263
+Referências...................................................................................272
+Índice onomástico........................................................................282
 
 
 
@@ -4331,7 +4331,8 @@ Hegel, G. W. F. (1992). Fenomenologia do espírito (P. Meneses,
 Heidegger, M. (2012). Ser e tempo (F. Castilho, Trad.). Vozes;
       Editora da Unicamp. (Trabalho original publicado em 1927)
 Jung, C. G. (2013a). A prática da psicoterapia (Obras completas,
-       Vol. XVI/1). Vozes.
+       Vol. XVI/1). Vozes. (Trabalhos originais publicados entre
+       1929 e 1951)
 Jung, C. G. (2016b). Os arquétipos e o inconsciente coletivo (Obras
        completas, Vol. IX/1). Vozes. (Trabalhos originais
        publicados entre 1934 e 1954)
@@ -5620,16 +5621,17 @@ arquétipo em si, o que é duvidoso, porque Jung chega a ela por via
 empírica e Deleuze por via transcendental; e que a não semelhança
 entre atual e virtual valha também entre imagem e arquétipo, onde
 Jung por vezes fala de manifestação, palavra que reintroduz a
-semelhança pela porta dos fundos. Nenhuma das três está
-demonstrada neste livro. O que ofereço é a hipótese mais econômica
+semelhança pela porta dos fundos. A segunda é examinada na §10.5,
+que a rejeita na forma em que foi enunciada; as outras duas
 
 188
   Kerslake, C. (2004). Rebirth through incest: Deleuze's early Jungianism.
 Angelaki, 9(1), 135-157.
                                    184
-que encontrei para preservar a distinção entre arquétipo e imagem
-sem o substancialismo que ela costuma arrastar, e as objeções que
-ela merece ficam nomeadas acima.
+continuam sem demonstração neste livro. O que ofereço é a hipótese
+mais econômica que encontrei para preservar a distinção entre
+arquétipo e imagem sem o substancialismo que ela costuma arrastar,
+e as objeções que ela merece ficam nomeadas acima.
        O próprio Jung oferece apoio a essa leitura em algumas das
 suas formulações mais cuidadosas. Quando insiste em que o
 arquétipo em si é uma possibilidade de representação, e não uma
@@ -5643,8 +5645,222 @@ resposta: a transformar a pergunta que o Selbst coloca na figura da
 totalidade que a resolveria.
 
 
-10.5 Intensidade e energia psíquica
-       Há um ponto em que o confronto entre Deleuze e Jung se
+10.5 Dois regimes de objetividade
+       Das três coisas que a seção anterior declarou por demonstrar,
+a segunda é a que mais pesa. Se a objetividade que Deleuze
+reivindica para o problema fosse de outro tipo que a objetividade que
+Jung reivindica para o arquétipo em si, "campo problemático" e
+"arquétipo" só poderiam dividir uma palavra, e a leitura proposta
+seria uma metáfora de que se gostou. Examino aqui a premissa em
+três passos: o que Deleuze quer dizer quando atribui objetividade ao
+problema, e por qual via chega a ela; o que Jung quer dizer quando a
+atribui ao arquétipo, e por qual via; e o que resta da premissa depois
+
+                                 185
+do confronto. Adianto o resultado, para que não se espere mais do
+que ele entrega: tal como foi enunciada, a premissa é falsa. Os dois
+autores não reivindicam a mesma objetividade. O que sobrevive é
+uma homologia mais estreita, que basta para o uso que o livro faz
+dela e não basta para nenhum outro.
+        Comece-se por Deleuze, cuja posição é a menos intuitiva. A
+objetividade do problema não é a de uma coisa encontrada, nem a de
+um fato observado: é herdada de Kant e corrigida contra ele. O
+capítulo IV de Diferença e repetição abre lembrando que, para Kant,
+as Ideias são essencialmente "problemáticas" e que, inversamente,
+"os problemas são as próprias Ideias".189 Deleuze lê aí que os
+verdadeiros problemas são Ideias e que estas "não são suprimidas
+por 'suas' soluções, pois são a condição indispensável sem a qual
+nenhuma solução jamais existiria".190 Daí a frase que a §10.4 já citou
+e que convém agora ler devagar: "Os problemas têm um valor
+objetivo, as Ideias têm de algum modo um objeto". O que ela afirma
+não é que o problema exista independentemente do pensamento,
+como um objeto existiria independentemente de quem o conhece. É
+que o indeterminado, nele, não mede a nossa ignorância: "não é uma
+simples imperfeição em nosso conhecimento, nem uma falta no
+objeto; é uma estrutura objetiva, perfeitamente positiva, agindo já na
+percepção como horizonte ou foco".191 Objetivo, aqui, quer dizer
+
+
+189
+   Deleuze, G. (2006). Diferença e repetição, cap. IV, "Síntese ideal da
+diferença", seção "A Ideia como instância problemática", p. 162.
+190
+   Deleuze, G. (2006). Diferença e repetição, cap. IV, p. 162. A formulação é a
+leitura que Deleuze faz de Kant, e é a que ele adota.
+                                     186
+positivo e estrutural: aquilo que determina os casos sem se confundir
+com nenhum deles.
+            A via por que Deleuze chega a essa objetividade é
+transcendental, mas de um transcendental que recusa o formato
+kantiano. As categorias, diz ele, são condições da experiência
+possível e, por isso, "muito gerais, muito amplas para o real"; 192 o
+que se procura são as condições da experiência real. "A condição
+deve ser condição da experiência real e não da experiência possível.
+Ela forma uma gênese intrínseca, não um condicionamento
+extrínseco."193 A cautela de método que acompanha o programa é
+igualmente explícita: o empirismo transcendental é, na sua fórmula,
+"o único meio de não decalcar o transcendental sobre as figuras do
+empirismo".194 A estrutura problemática não é, portanto, induzida
+dos casos, e tampouco postulada contra eles: é exigida por eles,
+como aquilo sem o que a sua gênese não se explicaria. A
+objetividade do problema tem a forma de uma exigência de gênese.
+Dado que há soluções, há de haver o problema que elas resolvem e
+que nelas persiste.
+            Jung reivindica uma objetividade e a chama de empírica.
+Acusado com frequência de misticismo, insiste em que o
+
+191
+   Deleuze, G. (2006). Diferença e repetição, cap. IV, p. 163, onde se encontram
+as duas passagens.
+192
+      Deleuze, G. (2006). Diferença e repetição, cap. I, p. 73.
+193
+  Deleuze, G. (2006). Diferença e repetição, cap. III, seção "Sentido e
+proposição", p. 150.
+194
+  Deleuze, G. (2006). Diferença e repetição, cap. III, seção "Pensar: sua gênese
+no pensamento", p. 142.
+                                          187
+inconsciente coletivo "não é uma questão especulativa nem
+filosófica, mas sim empírica. A pergunta seria simplesmente saber
+se tais formas universais existem ou não". A evidência que admite é
+a recorrência: descartadas a educação e a criptomnésia, "restam
+casos individuais em número suficiente, mostrando o ressurgimento
+autóctone de motivos mitológicos que desafiam toda dúvida
+racional".195 A estrutura do argumento é indutiva. O arquétipo é
+aquilo que é preciso supor para que os motivos voltem onde
+nenhuma transmissão os explica; a objetividade reivindicada é a de
+um fator que precede as imagens e as forma, e a prova de que existe
+é o que as imagens fazem quando se acumulam.
+         Mas o empirismo de Jung não é ingênuo, e os textos em que
+ele o refina são os que mais aproximam as duas posições. Em
+"Considerações teóricas sobre a natureza do psíquico", o arquétipo
+em si é um "fator psicoide", "irrepresentável", do qual a consciência
+só recebe "visualizações e concretizações". A operação que o
+postula é descrita sem rodeios: "Quando a Psicologia admite a
+existência de certos fatores psicoides irrepresentáveis, com base em
+suas observações, em princípio ela está fazendo a mesma coisa que a
+Física, quando constrói um modelo atômico".196 A via é a mesma de
+antes, a observação, mas o que ela produz já não é um achado: é um
+modelo, e Jung o diz. Já no ensaio sobre a anima, de 1936, ele o dizia
+195
+   Jung, C. G. (2016b). O conceito de inconsciente coletivo. In Os arquétipos e o
+inconsciente coletivo (Obras completas, Vol. IX/1, §92, ambas as citações).
+Vozes. (Trabalho original publicado em 1936).
+196
+   Jung, C. G. (2014b). Considerações teóricas sobre a natureza do psíquico. In A
+natureza da psique (Obras completas, Vol. VIII/2, §417). Vozes. (Trabalho
+original publicado em 1947/1954).
+                                      188
+em termos ainda mais curtos: o empirista "deve contentar-se,
+portanto, com um 'como se' teórico". 197 E é o mesmo Jung que, ao
+definir o arquétipo, escreve na linguagem da filosofia crítica: "uma
+possibilidade dada a priori da forma da sua representação".198 O
+vocabulário oscila entre o empírico e o a priori, e é difícil ver nessa
+oscilação um descuido. Ela marca o ponto em que a via de Jung, sem
+deixar de ser empírica na origem, passa a depender de uma operação
+que já não é observação.
+        Postos lado a lado, os dois regimes diferem pelo que sustenta
+a reivindicação e pelo que poderia desmenti-la. Em Jung, o
+arquétipo é inferido da recorrência e permanece exposto a ela: um
+motivo que se mostrasse explicável por educação ou criptomnésia
+perderia o valor probatório, e o próprio Jung nomeia essas hipóteses
+como as que cumpre descartar. Em Deleuze, o problema é exigido
+pela gênese e, por isso, não está exposto a casos no mesmo sentido; o
+que o atingiria não seria um motivo que deixa de recorrer, mas a
+demonstração de que a gênese das soluções pode dispensar a
+condição. O teste do achado que falta, que a §13.2 proporá — diga,
+antes de olhar o material, qual observação o faria abandonar o
+conceito —, separa os dois regimes sem esforço. Jung sabe
+responder. Para Deleuze, a pergunta não tem o mesmo sentido, e ele
+diria que isso não é fraqueza, mas a diferença entre um conceito
+197
+   Jung, C. G. (2016b). O arquétipo com referência especial ao conceito de anima.
+In Os arquétipos e o inconsciente coletivo (Obras completas, Vol. IX/1, §143).
+Vozes. (Trabalho original publicado em 1936/1954).
+198
+  Jung, C. G. (2016b). Aspectos psicológicos do arquétipo materno. In Os
+arquétipos e o inconsciente coletivo (Obras completas, Vol. IX/1, §155). Vozes.
+(Trabalho original publicado em 1938/1954).
+                                      189
+empírico e uma condição transcendental. A premissa cai, portanto: a
+objetividade do problema e a do arquétipo em si não são do mesmo
+tipo, e transpor uma para a outra sem dizê-lo seria passar do
+empírico ao transcendental por baixo da mesa.
+         O que sobrevive é uma homologia de estatuto, não de
+fundamento. Nos dois casos, o que se chama de objetivo é uma
+estrutura ainda não determinada, que só se determina nas suas
+respostas. Em Deleuze, o primeiro momento da Ideia é o
+indeterminado como "estrutura objetiva, perfeitamente positiva";
+em Jung, "um arquétipo em estado de repouso, não projetado, não
+possui    forma      determinável,      mas     constitui     uma     estrutura
+formalmente indefinida, mas com a possibilidade de manifestar-se
+em formas determinadas, através da projeção". 199 Que um e outro
+escrevam "estrutura" para designar o que não é coisa nem
+representação não é coincidência verbal. Mas a homologia vale para
+o primeiro momento da Ideia e tropeça no terceiro: Deleuze insiste
+em que, "em vez de ser indeterminado, o virtual é completamente
+determinado",200 em relações diferenciais e pontos singulares, ainda
+que não em existência atual, ao passo que o arquétipo de Jung, em
+repouso, nem sequer possui forma determinável. Há aqui uma
+diferença que a leitura da §10.4 não pode absorver: o problema
+deleuziano é rico em estrutura antes de qualquer solução, e o
+
+199
+   Jung, C. G. (2016b). O arquétipo com referência especial ao conceito de anima.
+In Os arquétipos e o inconsciente coletivo (Obras completas, Vol. IX/1, §142).
+Vozes. (Trabalho original publicado em 1936/1954).
+200
+   Deleuze, G. (2006). Diferença e repetição, cap. IV, seção "A realidade do
+virtual: ens omni modo...", p. 197.
+                                      190
+arquétipo junguiano, tal como o §142 do ensaio sobre a anima o
+descreve, só adquire estrutura determinada ao ser projetado.
+         De passagem, e sem pretender com isso demonstrar a
+terceira premissa, uma observação. Jung escreve, na mesma
+passagem de 1947, que o arquétipo, ao ser representado, "difere, de
+maneira que não é possível determinar, daquilo que deu origem a
+essa representação".201 A frase não afirma a não semelhança de que
+Deleuze precisa, mas também não afirma a semelhança: afirma uma
+diferença cuja medida é indeterminável, o que fica a meio caminho
+entre as duas. Fica registrado, e fica por demonstrar, porque o outro
+texto de Jung à mão, a analogia do sistema axial do cristal, que
+"determina apenas a estrutura estereométrica, não porém a forma
+concreta do cristal particular",202 devolve à relação entre arquétipo e
+imagem uma semelhança estrutural que a não semelhança
+deleuziana recusa.
+         A conclusão corrige a §10.4 sem desmanchá-la. O arquétipo
+não pode ser dito um problema virtual no sentido técnico de
+Deleuze, porque a objetividade que Jung lhe atribui é de outra
+espécie, e porque a estrutura que Jung lhe reconhece é menos do que
+o virtual exige. O que se pode dizer é que o arquétipo, tal como Jung
+o descreve nos seus textos mais cuidadosos, ocupa na teoria o
+mesmo lugar que o problema ocupa na de Deleuze: o de uma
+201
+   Jung, C. G. (2014b). Considerações teóricas sobre a natureza do psíquico. In A
+natureza da psique (Obras completas, Vol. VIII/2, §417). Vozes. (Trabalho
+original publicado em 1947/1954).
+202
+  Jung, C. G. (2016b). Aspectos psicológicos do arquétipo materno. In Os
+arquétipos e o inconsciente coletivo (Obras completas, Vol. IX/1, §155). Vozes.
+(Trabalho original publicado em 1938/1954).
+                                      191
+estrutura objetiva que não é coisa nem representação, que só se
+determina nas respostas e que persiste nelas. E cada autor fornece ao
+outro o que lhe falta. Jung fornece a exposição ao material, que o
+transcendental deleuziano dispensa; Deleuze fornece a explicação
+da persistência, que a indução de Jung não alcança, porque a
+recorrência mostra que algo volta, não por que volta como volta. Isto
+é menos do que a §10.4 podia parecer prometer. É, em compensação,
+algo que pode ser mantido sob o regime em que Jung dizia sustentar
+a sua própria teoria. A leitura do arquétipo como problema passa a
+valer como um "como se" teórico, e fica sujeita, portanto, ao teste do
+achado que falta: quem a adotar deve poder dizer qual observação
+clínica o faria abandoná-la.
+
+
+10.6 Intensidade e energia psíquica
+        Há um ponto em que o confronto entre Deleuze e Jung se
 torna particularmente preciso, porque ambos recorrem ao mesmo
 vocabulário: o da energia. No ensaio de 1928 sobre a energia
 psíquica, Jung propôs conceber a libido não como pulsão sexual, à
@@ -5652,21 +5868,21 @@ maneira de Freud, mas como uma grandeza energética, análoga à
 energia dos físicos, cujo movimento depende de diferenças de
 potencial. Não há energia sem tensão entre opostos: a libido flui do
 polo de maior potencial para o de menor, e é essa diferença que torna
-
-
-
-
-                                185
-possível todo trabalho psíquico189. Os opostos, nessa concepção, não
+possível todo trabalho psíquico203. Os opostos, nessa concepção, não
 são apenas conteúdos da psique; são a condição do seu dinamismo.
-        No mesmo ensaio, Jung tira uma consequência que
+
+203
+  Jung, C. G. (2014a). Sobre a energia psíquica. In A energia psíquica (Obras
+completas, Vol. VIII/1, §§1-130). Vozes. (Trabalho original publicado em 1928).
+                                     192
+        No mesmo ensaio, Jung tira uma consequência que
 raramente é notada. Se a energia depende de diferenças de potencial,
 e se essas diferenças tendem a se igualar, então a psique está sujeita
 a algo análogo à entropia: num sistema relativamente fechado, as
 tensões se equilibram progressivamente, e o resultado é uma
 diminuição da intensidade, uma estabilização das atitudes, um
 apaziguamento que pode ser vivido como maturidade ou como
-esgotamento190. A imagem é sugestiva, e Jung a utiliza com cautela.
+esgotamento204. A imagem é sugestiva, e Jung a utiliza com cautela.
 Mas ela revela algo sobre o horizonte do modelo: se a vida psíquica
 é movida pela tensão entre opostos, e se essa tensão tende a se
 resolver, então a resolução dos opostos — a síntese, a totalidade, o
@@ -5680,23 +5896,23 @@ calor passa do corpo quente ao frio, as diferenças se igualam, a
 entropia aumenta. Mas acusa a filosofia de ter feito dessa anulação a
 verdade da diferença — de ter tomado o processo pelo qual a
 intensidade se esgota na extensão como se fosse a essência da
+intensidade. A intensidade, para Deleuze, é diferença em si mesma,
 
-189
-  Jung, C. G. (2014a). Sobre a energia psíquica. In A energia psíquica (Obras
-completas, Vol. VIII/1, §§1-130). Vozes. (Trabalho original publicado em 1928).
-190
+
+
+
+204
   Jung, C. G. (2014a). Sobre a energia psíquica, §§48-51, sobre o conceito de
 entropia.
-                                     186
-intensidade. A intensidade, para Deleuze, é diferença em si mesma,
-e ela subsiste, implicada, sob as qualidades e extensões em que se
-explica e se anula191.
+                                    193
+e ela subsiste, implicada, sob as qualidades e extensões em que se
+explica e se anula205.
          A comparação permite formular a questão com clareza. A
 psicologia complexa, ao pensar a energia a partir dos opostos, pensa-
 a a partir do seu produto, e não da sua gênese.
 
 
-10.6 Do desejo como falta ao desejo como produção
+10.7 Do desejo como falta ao desejo como produção
          A crítica da representação tem uma contrapartida no terreno
 da psicanálise. Em O anti-Édipo, de 1972, o primeiro livro escrito a
 quatro mãos com o psicanalista Félix Guattari, Deleuze ataca
@@ -5705,23 +5921,23 @@ Kojève. O desejo, afirmam os autores, se define pela produção de
 conexões, fluxos e cortes — nunca pela ausência de um objeto que
 viria satisfazê-lo. A falta, longe de ser constitutiva do desejo, é
 produzida socialmente, organizada por uma máquina que precisa
-que o desejo se reconheça como carente para poder canalizá-lo192.
+que o desejo se reconheça como carente para poder canalizá-lo206.
          O alvo explícito é o complexo de Édipo, que a psicanálise
 teria transformado no esquema universal de toda subjetividade. Ao
 reconduzir todo desejo ao triângulo pai-mãe-filho, a psicanálise
 faria com o inconsciente o mesmo que a representação faz com a
 diferença: submetê-lo a uma forma que o torna reconhecível e
-191
+administrável. O inconsciente, para Deleuze e Guattari, é uma
+205
   Deleuze, G. (2006). Diferença e repetição, cap. V, "Síntese assimétrica do
 sensível", pp. 214-215 (discussão de Léon Selme, Carnot e Clausius sobre o
 paradoxo da entropia).
-192
+206
   Deleuze, G., & Guattari, F. (2010). O anti-Édipo: capitalismo e esquizofrenia 1
 (L. B. L. Orlandi, Trad.). Editora 34, cap. 1, "As máquinas desejantes", pp. 43-45.
 (Trabalho original publicado em 1972).
-                                       187
-administrável. O inconsciente, para Deleuze e Guattari, é uma
-fábrica, não um teatro em que se representam sempre as mesmas
+                                       194
+fábrica, não um teatro em que se representam sempre as mesmas
 cenas familiares — e o que ele produz não se deixa reduzir a papai e
 mamãe.
             Há algo de junguiano nessa crítica, e os autores o
@@ -5731,73 +5947,72 @@ entre Freud e Jung, eles recuperam o seu ponto de partida:
             Jung notava que, na transferência, o psicanalista aparecia muitas
             vezes como um diabo, um deus, um feiticeiro, e que seus papéis
             iam singularmente além das imagens parentais. Depois, tudo
-            começou a correr mal, mas o ponto de partida era bom.193
+            começou a correr mal, mas o ponto de partida era bom.207
 
             A reserva vem logo em seguida. Freud e Jung "têm em
 comum, pelo menos, o fato de acreditarem que a libido não pode,
-sem mediação, investir um campo social ou metafísico" 194: Freud,
+sem mediação, investir um campo social ou metafísico" 208: Freud,
 pela sublimação da sexualidade; Jung, por uma energia não sexual
 que a sexualidade apenas simbolizaria. E ambos partilham o
 postulado de que o mito é a medida do inconsciente — o mesmo
 postulado a partir do qual "Jung é levado a restaurar a mais difusa, a
-mais espiritualizada religiosidade"195. Mesmo os arquétipos, que
+mais espiritualizada religiosidade"209. Mesmo os arquétipos, que
 Jung apresenta como fatores atuais que transbordam as imagens
 familiares na transferência, só escapariam do Édipo sob a condição
+de "gozar dos direitos do Ideal"210. A crítica coincide, noutro
 
-
-193
+207
   Deleuze, G., & Guattari, F. (2010). O anti-Édipo, p. 66. Sobre a relação de
 Deleuze com Jung, ver também Kerslake, C. (2007). Deleuze and the
 unconscious. Continuum.
-194
+208
       Deleuze, G., & Guattari, F. (2010). O anti-Édipo, p. 67.
-195
+209
       Deleuze, G., & Guattari, F. (2010). O anti-Édipo, p. 82.
-                                         188
-de "gozar dos direitos do Ideal"196. A crítica coincide, noutro
-vocabulário, com o diagnóstico da hipostasiação: o arquétipo,
+210
+      Deleuze, G., & Guattari, F. (2010). O anti-Édipo, p. 173.
+                                         195
+vocabulário, com o diagnóstico da hipostasiação: o arquétipo,
 quando tratado como forma fixa ou como garantia do sentido,
 converte a abertura do inconsciente em repertório de figuras e a
 psicologia em religiosidade difusa.
 
 
-10.7 As três sínteses do desejo e a energia psíquica
-            Esta seção tem uma história que convém contar, porque ela
+10.8 As três sínteses do desejo e a energia psíquica
+        Esta seção tem uma história que convém contar, porque ela
 explica boa parte do percurso deste livro. Foi pelo primeiro capítulo
 de O anti-Édipo, "As máquinas desejantes", que cheguei ao
 problema da dialética. Em 2016 comecei a pesquisar a relação entre
 a esquizoanálise e a psicologia complexa, e essa pesquisa resultou
 na minha monografia de conclusão de curso, dedicada a ler as
-máquinas desejantes à luz da psicologia analítica 197. A hipótese era
+máquinas desejantes à luz da psicologia analítica 211. A hipótese era
 simples de enunciar: tanto Jung quanto Deleuze e Guattari pensam o
 desejo no registro da produção, e não da aquisição; em ambos, a
 libido é uma energia que se desloca, se transforma e se multiplica, e
 não a busca de um objeto perdido. Parte dessa leitura se sustenta;
 outra parte precisou ser corrigida.
-            O ponto de partida continua válido. Quando Jung rompeu
+        O ponto de partida continua válido. Quando Jung rompeu
 com Freud, a questão decisiva foi a natureza da libido. Em Símbolos
 da transformação, a libido deixa de ser exclusivamente sexual e
+passa a designar a energia psíquica em geral, capaz de investir os
+mais diversos objetos e de se transformar em imagens, mitos e
 
-196
-      Deleuze, G., & Guattari, F. (2010). O anti-Édipo, p. 173.
-197
+211
   Perússolo, P. H. A. (2019). Jung e a esquizoanálise: uma leitura das máquinas
 desejantes à luz da psicologia analítica [Trabalho de conclusão de curso,
 Universidade Positivo]. Curitiba. A monografia analisa o primeiro capítulo de O
 anti-Édipo em aproximação com o conceito junguiano de energia psíquica.
-                                         189
-passa a designar a energia psíquica em geral, capaz de investir os
-mais diversos objetos e de se transformar em imagens, mitos e
-símbolos198. O ensaio de 1928 sobre a energia psíquica dá a essa
+                                     196
+símbolos212. O ensaio de 1928 sobre a energia psíquica dá a essa
 concepção o seu fundamento epistemológico: ao ponto de vista
 mecanicista-causal, que explica o fenômeno pelas suas causas, Jung
 contrapõe um ponto de vista energético-final, que o compreende
-pela direção do seu movimento 199. Amnéris Maroni formulou com
+pela direção do seu movimento 213. Amnéris Maroni formulou com
 precisão o que essa virada antecipava: "Foi exatamente isso que
 Jung percebeu quando rompeu com a psicanálise. Denunciou esse
 fato sessenta anos antes de O Anti-Édipo, de Gilles Deleuze e Félix
 Guattari: o desejo comportado da psicanálise não dá conta da
-explosão delirante da psicose"200. A observação tem peso. A
+explosão delirante da psicose"214. A observação tem peso. A
 psicologia de Jung nasceu no Burghölzli, diante da esquizofrenia, e
 não no consultório do neurótico, e foi a psicose que lhe mostrou uma
 libido que transborda o romance familiar.
@@ -5806,21 +6021,23 @@ o levam a outra consequência. Para eles, o Édipo não é a estrutura
 originária do desejo, e sim o resultado de uma operação de captura:
 "Acredita-se muitas vezes que Édipo é fácil, que é dado. Mas não é
 assim: Édipo supõe uma fantástica repressão das máquinas
+desejantes"215. Para descrever o que o Édipo reprime, o primeiro
 
-
-
-198
+212
   Jung, C. G. (2016c). Símbolos da transformação (Obras completas, Vol. V,
 parte II, caps. II-III, "O conceito de libido" e "A transformação da libido"). Vozes.
 (Trabalho original publicado em 1912; revisão de 1952).
-199
+213
   Jung, C. G. (2014a). Sobre a energia psíquica. In A energia psíquica (Obras
 completas, Vol. VIII/1, parte I). Vozes. (Trabalho original publicado em 1928).
-200
+214
       Maroni, A. (1998). Jung: o poeta da alma. Summus, p. 37.
-                                        190
-desejantes"201. Para descrever o que o Édipo reprime, o primeiro
-capítulo de O anti-Édipo distingue três sínteses do desejo. A
+215
+  Deleuze, G., & Guattari, F. (2010). O anti-Édipo: capitalismo e esquizofrenia 1
+(L. B. L. Orlandi, Trad.). Editora 34, p. 13. (Trabalho original publicado em
+1972).
+                                        197
+capítulo de O anti-Édipo distingue três sínteses do desejo. A
 primeira, a síntese conectiva, é a da produção: fluxos que se acoplam
 e se cortam, objetos parciais que se conectam uns aos outros sem
 totalidade prévia. A segunda, a síntese disjuntiva, é a do registro: a
@@ -5828,7 +6045,7 @@ produção se inscreve sobre o corpo sem órgãos, que distribui as
 conexões em séries alternativas. A terceira, a síntese conjuntiva, é a
 do consumo: é nela que surge o sujeito, não como centro do
 processo, mas como um resto, um efeito lateral das operações
-maquínicas202.
+maquínicas216.
             O que chamou a minha atenção em 2016, e continua a me
 parecer decisivo, é que os autores descrevem a passagem entre as
 sínteses em termos explicitamente energéticos:
@@ -5838,25 +6055,21 @@ sínteses em termos explicitamente energéticos:
             se prolonga em procedimento como procedimento de inscrição.
             Ou melhor, se denominarmos libido o 'trabalho' conectivo da
             produção desejante, devemos dizer que uma parte dessa energia se
-            transforma em energia de inscrição disjuntiva.203
+            transforma em energia de inscrição disjuntiva.217
 
             A libido não desaparece de uma síntese para outra; ela muda
 de regime. É difícil não reconhecer aqui um parentesco com a teoria
 junguiana das transformações da libido, em que a mesma energia se
-201
-  Deleuze, G., & Guattari, F. (2010). O anti-Édipo: capitalismo e esquizofrenia 1
-(L. B. L. Orlandi, Trad.). Editora 34, p. 13. (Trabalho original publicado em
-1972).
-202
-  Deleuze, G., & Guattari, F. (2010). O anti-Édipo, pp. 11-37. O sujeito
-produzido "como resíduo ao lado da máquina" é descrito nas pp. 35 e 60.
-203
-      Deleuze, G., & Guattari, F. (2010). O anti-Édipo, p. 26.
-                                         191
-desloca da pulsão para a imagem, da imagem para o símbolo, sem
+desloca da pulsão para a imagem, da imagem para o símbolo, sem
 que o seu quantum se perca. Na monografia, li a síntese disjuntiva
 como a instauração de um terceiro lugar no registro binário — o
-ponto em que a energia deixa de circular apenas entre dois polos e
+216
+  Deleuze, G., & Guattari, F. (2010). O anti-Édipo, pp. 11-37. O sujeito
+produzido "como resíduo ao lado da máquina" é descrito nas pp. 35 e 60.
+217
+      Deleuze, G., & Guattari, F. (2010). O anti-Édipo, p. 26.
+                                         198
+ponto em que a energia deixa de circular apenas entre dois polos e
 passa a se distribuir de outro modo. A proximidade com a função
 transcendente era a intuição que sustentava todo o trabalho.
             A terceira síntese reforçava essa intuição. Os autores
@@ -5866,7 +6079,7 @@ descrevem o consumo da máquina desejante como um nascimento:
             qualificar de autoerótico, ou antes, de automático, onde se
             celebram as núpcias de uma nova aliança, um novo nascimento,
             num êxtase deslumbrante, como se o erotismo maquinal libertasse
-            outras potências ilimitadas.204
+            outras potências ilimitadas.218
 
             Núpcias, aliança, nascimento: o vocabulário é o mesmo da
 coniunctio alquímica que Jung descreveu na psicologia da
@@ -5880,20 +6093,22 @@ seu caráter construtivo e finalista, oposto ao determinismo causal. A
 aproximação vale contra Freud, mas não vale entre Jung e Deleuze:
 o ponto de vista final de Jung supõe uma direção, e essa direção pode
 ser hipostasiada numa meta — o Selbst como totalidade. As sínteses
-
-204
-      Deleuze, G., & Guattari, F. (2010). O anti-Édipo, p. 33.
-                                         192
-do desejo não têm direção. Elas produzem sem finalidade, e a
+do desejo não têm direção. Elas produzem sem finalidade, e a
 esquizoanálise, como eu mesmo já anotava, dialoga mal com a
-noção de teleologia. A convergência está na produtividade do
+
+
+
+218
+      Deleuze, G., & Guattari, F. (2010). O anti-Édipo, p. 33.
+                                         199
+noção de teleologia. A convergência está na produtividade do
 inconsciente, e não na finalidade.
         O segundo ponto diz respeito à estrutura da energia. Em
 Jung, a energia é tensão entre opostos, e é por isso que o terceiro
 nasce da oposição. Em Deleuze e Guattari, a energia é fluxo e corte,
 e a oposição binária só aparece quando a síntese disjuntiva é usada
 de modo exclusivo e restritivo, isto é, quando o registro é capturado
-pelo Édipo205. Deleuze formula essa diferença em termos de
+pelo Édipo219. Deleuze formula essa diferença em termos de
 intensidade: a oposição é o produto da distribuição da diferença, e
 não a sua origem. O terceiro lugar que eu via na síntese disjuntiva
 não é um terceiro entre dois opostos. É o que resta quando a
@@ -5908,13 +6123,15 @@ importante para a clínica. Há um detalhe da história da
 esquizoanálise que ajuda a pensá-la: segundo François Dosse,
 Deleuze e Guattari passaram a preferir o termo agenciamento ao de
 máquina desejante, entre outras razões porque o segundo corria o
+risco de se cristalizar e de ser reabsorvido pelo vocabulário
 
-205
+
+
+219
   Deleuze, G., & Guattari, F. (2010). O anti-Édipo, pp. 105-107, sobre o uso
 exclusivo das disjunções no registro edipiano e as disjunções inclusivas.
-                                   193
-risco de se cristalizar e de ser reabsorvido pelo vocabulário
-psicanalítico206. Os próprios autores, portanto, enfrentaram o risco
+                                   200
+psicanalítico220. Os próprios autores, portanto, enfrentaram o risco
 de hipostasiar os seus conceitos, o mesmo que se apresenta, em
 Jung, a propósito do Selbst. Nesse ponto, a esquizoanálise e a
 psicologia complexa se encontram mais pela vigilância contra a
@@ -5927,7 +6144,7 @@ enquanto para Deleuze e Guattari ela dispensa o portador e antecede
 os opostos.
 
 
-10.8 Uma psicologia sem opostos?
+10.9 Uma psicologia sem opostos?
         Deleuze não chega a exigir o abandono do vocabulário dos
 opostos. O que ele exige é que esse vocabulário seja reconhecido
 como derivado: os opostos são o modo como a diferença se organiza
@@ -5937,14 +6154,16 @@ negaria que o paciente viva os seus conflitos como oposições —
 entre o dever e o desejo, entre a persona e a sombra, entre o
 masculino e o feminino. Perguntaria, antes, pela gênese dessas
 
-206
+
+
+220
    Dosse, F. (2010). Gilles Deleuze e Félix Guattari: biografia cruzada (F.
 Murad, Trad.). Artmed, pp. 210-211. Dosse cita a resposta do próprio Deleuze a
 Catherine Clément: "Seria talvez a noção de agenciamento (que substitui as
 máquinas desejantes)"; e comenta: "o agenciamento é o equivalente ao papel que
 desempenhava em O Anti-Édipo a noção de máquina desejante". (Trabalho
 original publicado em 2007).
-                                    194
+                                    201
 oposições: que diferenças intensivas foram distribuídas dessa
 maneira, e que outras distribuições seriam possíveis.
        Essa pergunta aproxima Deleuze, curiosamente, do Jung
@@ -5975,8 +6194,13 @@ Jung, C. G. (2014a). A energia psíquica (Obras completas, Vol.
        VIII/1). Vozes. (Trabalho original publicado em 1928)
 
 
-                                 195
-Jung, C. G. (2016c). Símbolos da transformação (Obras completas,
+                                 202
+Jung, C. G. (2014b). A natureza da psique (Obras completas, Vol.
+       VIII/2). Vozes. (Trabalho original publicado em 1947/1954)
+Jung, C. G. (2016b). Os arquétipos e o inconsciente coletivo (Obras
+       completas, Vol. IX/1). Vozes. (Trabalhos originais
+       publicados entre 1934 e 1954)
+Jung, C. G. (2016c). Símbolos da transformação (Obras completas,
        Vol. V). Vozes. (Trabalho original publicado em 1912; ed.
        revista, 1952)
 Kerslake, C. (2004). Rebirth through incest: Deleuze's early
@@ -5990,7 +6214,7 @@ Perússolo, P. H. A. (2019). Jung e a esquizoanálise: uma leitura das
 
 
 
-                                196
+                                203
                           11. Deleuze II
    Devir-mulher como linha de fuga e ruptura com o
                          falogocentrismo
@@ -6019,7 +6243,7 @@ devir.
 
 
 
-                                197
+                                204
 11.1 Maioria e minoria
          Para compreender o devir-mulher é preciso partir de uma
 distinção que Deleuze e Guattari formulam em Mil platôs e que não
@@ -6031,7 +6255,7 @@ padrão, europeu e heterossexual; é em relação a ele que todas as
 outras existências são medidas e classificadas. Os mosquitos, as
 crianças, as mulheres e os negros são mais numerosos do que os
 homens brancos adultos, e no entanto são minorias, porque não
-ocupam o lugar do padrão207.
+ocupam o lugar do padrão221.
          Aqui se encontra, sob outra formulação, a razão pela qual
 Hegel, Jung, Giegerich e Lacan pensaram o feminino sempre a partir
 de outro termo: porque pensaram a partir da posição majoritária, que
@@ -6039,20 +6263,20 @@ não se reconhece como posição, mas como norma. O
 falogocentrismo — a expressão, cunhada por Derrida, designa a
 solidariedade entre o privilégio do falo e o privilégio do logos — é o
 nome dessa posição quando ela se apresenta como razão
-universal208.
+universal222.
 
-207
+221
   Deleuze, G., & Guattari, F. (1995b). Postulados da linguística. In Mil platôs:
 capitalismo e esquizofrenia (Vol. 2, A. L. de Oliveira & L. C. Leão, Trad.).
 Editora 34, platô 4. (Trabalho original publicado em 1980). A exposição acima é
 nossa; a tese sobre maioria e minoria percorre a seção final do platô.
-208
+222
   O termo aparece na crítica que Derrida dirige ao seminário de Lacan sobre "A
 carta roubada": Derrida, J. (1980). Le facteur de la vérité. In La carte postale: de
 Socrate à Freud et au-delà. Flammarion. (Publicado originalmente em Poétique,
 1975.) Ele não pertence ao vocabulário de Deleuze e Guattari, que nomeiam a
 mesma posição como majoritária.
-                                       198
+                                       205
        A minoria, por sua vez, não é simplesmente o grupo excluído
 do padrão. Deleuze e Guattari distinguem cuidadosamente entre a
 minoria como subconjunto — as mulheres como categoria social,
@@ -6081,12 +6305,12 @@ platôs, um dos mais longos e mais densos do livro, que começa com
 uma série de exemplos extraídos da literatura, da etologia e da
 história das seitas — o devir-animal dos feiticeiros, o devir-baleia do
 
-                                 199
+                                 206
 capitão Ahab em Moby Dick, o devir-rato do personagem de um
 filme de horror. O que esses exemplos têm em comum é que em
 nenhum deles se trata de imitar um animal, de se identificar com ele
 ou de estabelecer uma analogia entre a sua condição e a do
-humano209. O devir não é uma relação de semelhança entre dois
+humano223. O devir não é uma relação de semelhança entre dois
 termos, nem uma correspondência de relações entre eles. Não se
 trata de o homem parecer um lobo, nem de que o homem esteja para
 os outros homens como o lobo está para os outros lobos.
@@ -6102,18 +6326,18 @@ ele é o próprio processo, o meio, o entre.
          É nesse quadro que aparece a tese mais surpreendente do
 platô, enunciada na seção intitulada "Lembranças de uma
 molécula": todos os devires começam e passam pelo devir-mulher,
-que é assim a chave de todos os outros210. Se o padrão majoritário é o
-209
+que é assim a chave de todos os outros224. Se o padrão majoritário é o
+223
    Deleuze, G., & Guattari, F. (1997). 1730 — Devir-intenso, devir-animal, devir-
 imperceptível. In Mil platôs: capitalismo e esquizofrenia (Vol. 4, S. Rolnik,
 Trad.). Editora 34, seção "Lembranças de uma molécula": "Ora, se todos os
 devires já são moleculares, inclusive o devir-mulher, é preciso dizer também que
 todos os devires começam e passam pelo devir-mulher. É a chave dos outros
 devires". (Trabalho original publicado em 1980).
-210
+224
   Deleuze, G., & Guattari, F. (1997). 1730 — Devir-intenso, devir-animal, devir-
 imperceptível. A tese e a sua justificação ocupam a seção "Lembranças de uma
-                                      200
+                                      207
 homem, o primeiro movimento de desfazer a identidade com o
 padrão é o que se afasta do homem na direção de sua diferença mais
 imediata. Os outros devires — animal, criança, molecular,
@@ -6142,7 +6366,7 @@ movimento de se tornar essa mulher, nem de afirmá-la contra o
 homem; é o movimento de escapar à própria oposição que a
 molécula", que articula o devir-mulher ao devir-criança, ao devir-animal e ao
 devir-imperceptível. A formulação acima é nossa.
-                                    201
+                                    208
 constitui. Por isso Deleuze e Guattari podem dizer que mesmo as
 mulheres precisam devir-mulher: a identidade feminina, tal como
 organizada pela oposição binária, é uma captura da qual o devir é a
@@ -6157,7 +6381,7 @@ forma, um destino pela via da admoestação que lhe diz que já não é
 uma menininha. E é na menina que se encontra, antes dessa captura,
 um bloco de devir que não pertence a nenhum dos dois sexos. A
 menina é uma linha de fuga, e não um termo; ela está sempre
-entre211.
+entre225.
          O que essa figura traz ao problema em exame fica claro de
 imediato. Antígona, na leitura de Hegel, era uma figura molar por
 excelência: a irmã, a guardiã da família, a portadora da lei divina,
@@ -6165,7 +6389,7 @@ definida inteiramente pela posição que ocupa na oposição entre a
 família e o Estado, entre a lei dos deuses subterrâneos e a lei
 humana. O que Hegel não podia ver nela — e que Irigaray procurou
 recuperar — era aquilo que em Antígona excede essa posição: a
-211
+225
    Deleuze, G., & Guattari, F. (1997). 1730 — Devir-intenso, devir-animal, devir-
 imperceptível. A menina, o corpo que lhe é tomado e o bloco de devir que ela
 carrega são discutidos na seção "Lembranças de uma molécula", a mesma em que
@@ -6173,7 +6397,7 @@ se enuncia a tese sobre o devir-mulher. No original: "é à menina, primeiro, qu
 rouba esse corpo" e "A moça é como o bloco de devir que permanece
 contemporâneo de cada termo oponível, homem, mulher, criança, adulto". A
 exposição acima é nossa.
-                                      202
+                                      209
 singularidade de um gesto que não se deixa reduzir a nenhum dos
 polos da oposição. Uma leitura deleuziana de Antígona a tomaria
 como devir, não como momento: a linha de fuga que atravessa a
@@ -6190,7 +6414,7 @@ linhas de segmentaridade maleável, feitas de pequenas modificações
 e desvios que não chegam a romper a organização; e há as linhas de
 fuga, que não se deixam segmentar e arrastam os sujeitos para fora
 das formas estabelecidas. As três coexistem e se entrelaçam, e
-nenhuma é boa ou má em si mesma212.
+nenhuma é boa ou má em si mesma226.
          A linha de fuga não é uma evasão, no sentido de uma fuga
 para fora do mundo. É, ao contrário, aquilo que faz fugir o próprio
 sistema, que abre nele uma brecha por onde passam fluxos que ele
@@ -6199,12 +6423,12 @@ linhas de fuga são perigosas — podem se converter em linhas de
 abolição, de destruição, de morte — e que não se trata de celebrá-las
 indiscriminadamente. Mas elas são também a condição de toda
 
-212
+226
   Deleuze, G., & Guattari, F. (1996). 1874 — Três novelas ou "O que se
 passou?". In Mil platôs: capitalismo e esquizofrenia (Vol. 3, A. Guerra Neto, A. L.
 de Oliveira, L. C. Leão & S. Rolnik, Trad.). Editora 34, platô 8. (Trabalho original
 publicado em 1980). A exposição das três linhas acima é nossa.
-                                       203
+                                       210
 criação: sem elas, a vida estaria inteiramente capturada pelas
 segmentaridades que a organizam.
        O símbolo, no sentido de Jung, pode ser compreendido como
@@ -6234,10 +6458,10 @@ argumento é direta:
        não seria possível que o processo de 'devir-mulher' seja apenas
        uma nova variação de uma velha alegoria do processo pelo qual as
 
-                                 204
+                                 211
          mulheres se tornam obsoletas? Restaria apenas o seu simulacro:
          uma figura feminina apanhada num mar rodopiante de
-         configurações masculinas [tradução nossa].213
+         configurações masculinas [tradução nossa].227
 
          O devir-mulher seria, nessa leitura, uma operação pela qual o
 homem se renova tomando emprestada a posição da mulher, sem
@@ -6252,10 +6476,10 @@ sempre possuiu. Rosi Braidotti, que se tornou uma das principais
 leitoras feministas de Deleuze, formulou essa objeção de modo
 lapidar: "não se pode desconstruir uma subjetividade que nunca se
 controlou. A autodeterminação é o primeiro passo de qualquer
-programa de desconstrução" [tradução nossa]214.
+programa de desconstrução" [tradução nossa]228.
 
 
-213
+227
   Jardine, A. (1985). Gynesis: Configurations of woman and modernity. Cornell
 University Press, p. 217: "is it not possible that the process of 'becoming woman' is
 but a new variation of an old allegory for the process of women becoming
@@ -6263,14 +6487,14 @@ obsolete? There would remain only her simulacrum: a female figure caught in a
 whirling sea of male configurations". O capítulo consagrado a Deleuze,
 "Becoming a Body without Organs: Gilles Deleuze and His Brothers", vai das pp.
 208-226.
-214
+228
    Braidotti, R. (1994). Nomadic subjects: Embodiment and sexual difference in
 contemporary feminist theory. Columbia University Press, p. 117: "one cannot
 deconstruct a subjectivity one has never controlled. Self-determination is the first
 step of any program of deconstruction". A autora retoma a fórmula à p. 141,
 deslocando a ênfase do controle para o acesso: "one cannot deconstruct a
 subjectivity one has never been fully granted".
-                                        205
+                                        212
          Braidotti, no entanto, não conclui daí pelo abandono de
 Deleuze. A sua proposta é retomar o conceito de devir a partir da
 diferença sexual, e não contra ela: o devir-mulher não precisa ser
@@ -6289,12 +6513,12 @@ corpos de Deleuze e Guattari oferece ao feminismo:
          interior/exterior. Eles oferecem um modo inteiramente diferente
          de entender o corpo em suas conexões com outros corpos,
          humanos e não humanos, animados e inanimados [tradução
-         nossa].215
+         nossa].229
 
 
 
 
-215
+229
    Grosz, E. (1994). Volatile bodies: Toward a corporeal feminism. Indiana
 University Press, p. 164: "Their notion of the body as a discontinuous,
 nontotalizable series of processes, organs, flows, energies, corporeal substances
@@ -6308,7 +6532,7 @@ Espinosa) e a Parte III, "The Outside In" (pp. 115-186): cap. 5, "Nietzsche and 
 Choreography of Knowledge" (pp. 115-137); cap. 6, "The Body as Inscriptive
 Surface", sobre Nietzsche, Kafka, Foucault, Deleuze e Guattari e Lingis (pp. 138-
 159); cap. 7, "Intensities and Flows", sobre Deleuze e Guattari (pp. 160-186).
-                                       206
+                                       213
        Em ambos os casos, a apropriação feminista de Deleuze
 passa por corrigi-lo naquilo em que ele parece reproduzir o gesto que
 pretendia romper.
@@ -6338,7 +6562,7 @@ binária e complementar.
 
 
 
-                                207
+                                214
          Mas há, na própria tradição junguiana, uma leitura da anima
 que se aproxima surpreendentemente do devir. James Hillman, num
 estudo de 1985, recusou o caráter contrassexual da anima e
@@ -6347,7 +6571,7 @@ homens e mulheres igualmente do que o feminino do homem: a
 função que dá à psique profundidade, interioridade e relação com as
 imagens. A anima, nessa leitura, é um modo de ser que desfaz a
 identidade do eu com a sua posição heroica e consciente, não uma
-figura a ser integrada216. O que Hillman descreve como anima — a
+figura a ser integrada230. O que Hillman descreve como anima — a
 potência que arrasta o eu para fora de sua identidade, que o leva a
 perder-se nas imagens, que dissolve a sua pretensão de domínio —
 tem mais de linha de fuga do que de complemento.
@@ -6364,12 +6588,12 @@ recusava a fixar o sentido do símbolo.
 
 
 
-216
+230
    Hillman, J. (1985). Anima: An anatomy of a personified notion. Spring
 Publications, p. 55: anima, "as archetype, is too wide to be contained by the notion
 of contrasexuality [...] Anima, released from this containing definition, bears upon
 the psyche of women too".
-                                       208
+                                       215
 Vinheta clínica — A voz na reunião
 "Agora eu não mando nem no cachorro." A frase é dita
 rindo, na primeira sessão, por um homem que acaba de se
@@ -6399,7 +6623,7 @@ primeira segunda-feira depois das férias a poltrona fica
 vazia; na quarta, também, sem aviso. Na semana seguinte
 ele chega bronzeado, pede desculpas e conta: o coral foi
 convidado para uma turnê por cidades do interior, a turnê se
-                            209
+                            216
     estendeu, ele pagou a passagem de dois colegas que não
     podiam ir, alugou uma van, cobriu hotéis. Calcula ter gasto
     um quinto do que guardara para a aposentadoria. A mulher
@@ -6429,13 +6653,217 @@ aparecia como resistência. Lida pelo devir, a voz importava pelo que
 desfazia, a posição de quem comanda, e a falta de rosto passava a ser
 o traço decisivo do material. A turnê mostra que nenhuma das duas
 leituras basta sozinha, porque o movimento que desfaz a voz de
-                                210
+                                217
 comando serviu também para responder à ausência do analista. O
 devir descreveu melhor o rumo dos sonhos; a leitura clássica da
 transferência descreveu melhor as duas faltas.
 
 
-11.7 O que o devir não resolve
+11.7 A crítica feminista de dentro da psicologia analítica
+       As interlocutoras que o livro convocou para testar as
+dialéticas pelo lugar que dão ao feminino — Irigaray, Butler,
+Jardine, Braidotti, Grosz — falam todas de fora da psicologia
+analítica. Seria uma lacuna séria se a tradição junguiana não tivesse
+produzido, por conta própria, uma crítica da anima, e mais séria
+ainda se tivesse produzido uma que antecipasse a objeção que a
+§11.6 acaba de fazer. A primeira coisa existe, e é considerável. Resta
+saber se existe a segunda. A pergunta que guia esta seção é precisa:
+alguma dessas autoras formula a anima como o termo a subsumir —
+o feminino, em Jung, como complemento de uma totalidade
+previamente concebida, o Selbst, ocupando posição estruturalmente
+análoga à que a Aufhebung reserva ao feminino em Hegel? Declaro o
+resultado de saída. Nas obras que consultei, nenhuma a formula
+nesses termos, e nenhuma recorre a Hegel para fazê-lo. Várias
+formulam, em vocabulário próprio, o núcleo do que está em jogo:
+que a complementaridade entre os sexos opera na teoria como
+pressuposto, e não como achado.
+       A formulação mais próxima é a de Demaris Wehr. Em Jung
+and Feminism, ela identifica no centro do paradigma junguiano uma
+dialética de conflito e resolução que é, a um só tempo, dualista e não
+dualista, com uma oscilação de Jung entre o dualismo e um ir além
+
+                                 218
+do dualismo que "nunca se resolve".231 O diagnóstico toca num
+ponto que o livro examinou na §6.2: a hesitação entre uma tensão
+que se sustenta e uma totalidade que a resolve. E é quando Wehr
+passa da forma à matéria que a objeção se aproxima da §1.3. As
+ideias de oposição, compensação e equilíbrio, escreve, tornaram-se
+paradigmas governantes, com os quais Jung e os junguianos
+"tenderam a minimizar o necessário desequilíbrio entre anima e
+animus numa cultura que desvaloriza as mulheres".232 E vai além:
+"construir uma teoria sobre a ilusão de equilíbrio funciona para
+mascarar o desequilíbrio de gênero que existe no patriarcado". 233
+Mais adiante, a propósito da primeira projeção infantil, aponta o
+mesmo princípio em ação: a insistência de Jung no modelo da
+complementaridade sexual "o leva a errar".234
+
+
+
+231
+   Wehr, D. S. (1987). Jung and feminism: Liberating archetypes. Beacon Press,
+pp. 29-30: "This dialectic is both dualistic and nondualistic. In fact, there is a kind
+of wavering on Jung's part between dualism and a reaching-beyond dualism that is
+never resolved." Tradução nossa.
+232
+   Wehr, D. S. (1987). Jung and feminism: Liberating archetypes. Beacon Press,
+p. 67: "With the ideas of opposition, compensation, and balance as governing
+paradigms, Jung and Jungians have tended to downplay the necessary imbalance
+between the anima and animus in a culture that devalues women." Tradução
+nossa.
+233
+   Wehr, D. S. (1987). Jung and feminism: Liberating archetypes. Beacon Press,
+p. 68: "In fact we can go further, and consider that to construct a theory on the
+illusion of balance functions to mask the gender imbalance that exists in
+patriarchy." Na mesma página: "to pursue the illusion of balance as the goal of life
+is to avoid and thereby legitimate the social problem of inequality between the
+sexes". Tradução nossa.
+234
+   Wehr, D. S. (1987). Jung and feminism: Liberating archetypes. Beacon Press,
+p. 132: "Here Jung's insistence on the model of sexual complementarity leads him
+astray." Tradução nossa.
+                                         219
+        A origem desse paradigma já havia sido apontada por Naomi
+Goldenberg, a quem Wehr reconhece o mérito de ter chamado a
+atenção para o caráter derivado do animus. A passagem em que Jung
+o deduz é transparente quanto à lógica: "uma vez que a anima é um
+arquétipo encontrado nos homens, é razoável supor que um
+arquétipo equivalente deva estar presente nas mulheres; pois, assim
+como o homem é compensado por um elemento feminino, a mulher
+é compensada por um elemento masculino". 235 A psique da mulher,
+nesse raciocínio, é o inverso lógico da do homem, e o animus existe
+porque a simetria o exige. É a estrutura do termo a subsumir vista
+pelo avesso: a anima completa o homem, e o animus é postulado
+para que a simetria da teoria se feche. Polly Young-Eisendrath chega
+à mesma estrutura por outra porta, que é a do vocabulário lacaniano
+percorrido na Estação 9. Fazer uma divisão "forte e complementar"
+entre esses opostos, escreve, "quase elimina a sua utilidade
+psicológica";236 e cita, para dizer o que se perde, a observação de
+
+235
+   Wehr, D. S. (1987). Jung and feminism: Liberating archetypes. Beacon Press,
+p. 64: "Since the anima is an archetype that is found in men, it is reasonable to
+suppose that an equivalent archetype must be present in women; for just as the
+man is compensated by a feminine element, so woman is compensated by a
+masculine one." Wehr transcreve a passagem de Jung e a atribui à leitura de
+Goldenberg; a nota de Wehr que daria a fonte em Jung não é legível no exemplar
+digital consultado, e a localização da passagem na Obra completa deve ser
+conferida. Sobre o caráter derivado do animus, ver ainda Wehr, p. 132: "Naomi
+Goldenberg's critique of the animus as derivative is on target". Os textos de
+Goldenberg que Wehr arrola (entre eles "Archetypal theory after Jung", Spring,
+1975, pp. 199-220, e Changing of the gods, Beacon Press, 1979, cap. 5) não foram
+consultados diretamente. Tradução nossa.
+236
+  Young-Eisendrath, P. (1997). Gender and desire: Uncursing Pandora. Texas
+A&M University Press, p. 33: "Making a strong and complementary division
+between these opposites almost eliminates their psychological usefulness."
+Tradução nossa.
+                                      220
+Jacqueline Rose sobre Lacan: é quando as categorias "masculino" e
+"feminino" passam a representar "uma divisão absoluta e
+complementar" — cada sexo vindo a ocupar o lugar "daquilo que
+poderia satisfazer e completar o outro" — que elas "caem presas de
+uma mistificação em que a dificuldade da sexualidade desaparece
+instantaneamente". Ver os dois sexos como "complementos
+inerentes um do outro", acrescenta Young-Eisendrath, elimina a
+curiosidade pelos Outros, isto é, pelos aspectos desconhecidos de
+nós mesmos que supomos existir no sexo oposto.237 Não é por acaso
+que o argumento chegue a ela por Lacan: a complementaridade de
+que fala Rose é justamente a que a Estação 9 mostrou desfeita pela
+inexistência da relação sexual.
+         A defesa de Jung que a tradição oferece é, ela própria, uma
+resposta de dentro. Susan Rowland, que reconstitui o debate com
+mais generosidade do que Wehr, lembra que Jung "tem a tendência
+de colapsar e condensar o gênero e o sexo corporal", mas que não
+pode ser descrito como "um essencialista de gênero franco, dada a
+prioridade conferida por ele à pluralidade e androginia do
+
+237
+   Young-Eisendrath, P. (1997). Gender and desire: Uncursing Pandora. Texas
+A&M University Press, p. 33: a passagem de Rose é citada por Young-Eisendrath
+a partir da introdução de Rose à edição inglesa de Feminine sexuality, de Lacan (a
+referência completa consta nas notas do capítulo 2 de Young-Eisendrath e deve
+ser conferida): "Sexuality belongs in this area of instability played out in the
+register of demand and desire, each sex coming to stand... for that which could
+satisfy and complete the other. It is when the categories 'male' and 'female' are
+seen to represent an absolute and complementary division that they fall prey to a
+mystification in which the difficulty of sexuality instantly disappears." E, a seguir:
+"Seeing the two sexes as inherent complements of each other, with specific roles
+assigned to each, eliminates our curiosity and interest in, and sometimes even our
+desire to know about, the Others — those unknown aspects of ourselves that we
+believe exist in the opposite sex." Tradução nossa.
+                                        221
+inconsciente".238 O argumento merece ser tomado a sério e, aplicado
+à questão deste livro, tem dois gumes. De um lado, afrouxa o
+essencialismo: se os arquétipos são andróginos e plurais, a anima
+não é "o" feminino. De outro, é o impulso compensatório, o mesmo
+que Wehr acusa, que Rowland invoca como freio: ele "não o permite
+ser essencialista como ele parece ter desejado ser". 239 O que para
+Wehr é o problema é, para Rowland, a salvaguarda, o que mostra
+que a disputa não é sobre se a anima complementa, e sim sobre se a
+complementação é a última palavra da teoria. Rowland registra, de
+passagem, onde a disputa se torna mais aguda: ao resumir a revisão
+feita por Irene Claremont de Castillejo, nota que ela é "mais
+conservadora" quando considera as mulheres "aquelas que
+possibilitam a individuação masculina pela encarnação da
+anima".240 A frase descreve uma autora, e não uma tese de Rowland,
+mas é a mais próxima que encontrei da formulação procurada: o
+feminino como meio de que a totalidade masculina se serve para se
+completar. É, ainda assim, uma formulação indireta, a respeito de
+uma interlocutora que a própria Rowland classifica como
+conservadora, e não uma crítica.
+
+
+
+238
+  Rowland, S. (2024). Jung: uma revisão feminista (V. C. H. Richardson, Trad.).
+Vozes, cap. 2, "Sumário conclusivo". (Trabalho original publicado em 2002). A
+edição eletrônica consultada não traz a paginação impressa; as passagens de
+Rowland são, por isso, localizadas por capítulo e seção.
+239
+  Rowland, S. (2024). Jung: uma revisão feminista, cap. 2, seção "Conceitos
+básicos da psicologia junguiana".
+240
+   Rowland, S. (2024). Jung: uma revisão feminista, cap. 3, seção "Extensão e
+revisão: anima e animus", subseção "Principais autoras".
+                                     222
+        A saída mais interessante, porém, não vem das críticas: está
+no texto de Jung. No ensaio de 1936 sobre a anima, ele escreve que
+"a sizígia masculino-feminino é apenas um dos possíveis pares de
+opostos", que ela tem "muitas relações com outros pares (de
+opostos) que não apresentam diferenças sexuais" e que "um
+arquétipo em estado de repouso, não projetado, não possui forma
+determinável".241 Se isso é tomado a sério, a anima como figura
+feminina é um fenômeno da projeção, e não do arquétipo em si, e a
+complementaridade entre os sexos deixa de ser a forma da totalidade
+para ser uma das formas em que ela se dá a ver. É a leitura que
+Hillman fez de Jung e que a §11.6 já registrou; é também a passagem
+que a §10.5 usou para aproximar o arquétipo em repouso do virtual
+de Deleuze. A crítica feminista de dentro não precisa sair de Jung
+para encontrar o ponto em que a teoria se contradiz: ele está na
+distância entre o que Jung diz do arquétipo e o que faz da anima.
+        O resultado da busca pode ser resumido em três pontos.
+Primeiro: a crítica feminista junguiana confirma, por caminho
+independente, que a complementaridade funciona na teoria como
+pressuposto. É o que Wehr chama de ilusão de equilíbrio e Young-
+Eisendrath de divisão complementar. Segundo: essa crítica é feita
+em termos de ideologia de gênero e de epistemologia, e não de forma
+lógica; nenhuma das autoras afirma que a anima ocupe, na estrutura
+da psicologia complexa, o lugar que a Aufhebung reserva ao termo a
+subsumir. Terceiro: a conexão entre a anima e a lógica hegeliana da
+241
+   Jung, C. G. (2016b). O arquétipo com referência especial ao conceito de anima.
+In Os arquétipos e o inconsciente coletivo (Obras completas, Vol. IX/1, §142).
+Vozes. (Trabalho original publicado em 1936/1954).
+                                      223
+totalidade, tal como a propus na §1.3 e na §11.6, é, nas fontes
+consultadas, original deste livro, com a reserva de que a busca não
+foi exaustiva. Goldenberg só é citada aqui através de Wehr, e as
+autoras brasileiras ficaram de fora. Uma crítica formulada em
+termos que não procurei pode ter me escapado. O que posso afirmar
+é o que não encontrei, e onde procurei.
+
+
+11.8 O que o devir não resolve
          Seria enganoso apresentar Deleuze como a solução do
 problema que Hegel, Jung, Giegerich e Lacan deixaram em aberto.
 A dificuldade está onde menos se esperaria, isto é, dentro da própria
@@ -6454,13 +6882,11 @@ momento que o desejo atravessa em direção ao imperceptível. A
 direção é inversa — não se vai do particular ao universal, mas do
 molar ao molecular —, e a teleologia foi, em princípio, abolida. Mas
 a estrutura de travessia permanece: há um primeiro devir, pelo qual
-todos os outros passam, e há um último, que é o seu horizonte. É
+
+                                224
+todos os outros passam, e há um último, que é o seu horizonte. É
 possível que Deleuze tenha substituído a Aufhebung por outra forma
-
-
-
-                                211
-de passagem, menos visível porque se apresenta como fuga e não
+de passagem, menos visível porque se apresenta como fuga e não
 como progresso.
        A objeção não invalida a contribuição de Deleuze, mas
 impede que ela seja tomada como a última palavra. O que ela mostra
@@ -6486,12 +6912,13 @@ Deleuze, G., & Guattari, F. (1996). Mil platôs: capitalismo e
       esquizofrenia (Vol. 3, A. Guerra Neto, A. L. de Oliveira, L.
       C. Leão & S. Rolnik, Trad.). Editora 34. (Trabalho original
       publicado em 1980)
-Deleuze, G., & Guattari, F. (1997). Mil platôs: capitalismo e
+
+
+                                225
+Deleuze, G., & Guattari, F. (1997). Mil platôs: capitalismo e
       esquizofrenia (Vol. 4, S. Rolnik, Trad.). Editora 34.
       (Trabalho original publicado em 1980)
-
-                                212
-Derrida, J. (1980). Le facteur de la vérité. In La carte postale: de
+Derrida, J. (1980). Le facteur de la vérité. In La carte postale: de
        Socrate à Freud et au-delà. Flammarion. (Publicado
        originalmente em Poétique, 1975)
 Grosz, E. (1994). Volatile bodies: Toward a corporeal feminism.
@@ -6500,11 +6927,21 @@ Hillman, J. (1985). Anima: An anatomy of a personified notion.
       Spring Publications.
 Jardine, A. (1985). Gynesis: Configurations of woman and
        modernity. Cornell University Press.
+Jung, C. G. (2016b). Os arquétipos e o inconsciente coletivo (Obras
+       completas, Vol. IX/1). Vozes. (Trabalhos originais
+       publicados entre 1934 e 1954)
+Rowland, S. (2024). Jung: uma revisão feminista (V. C. H.
+      Richardson, Trad.). Vozes. (Trabalho original publicado em
+      2002)
+Wehr, D. S. (1987). Jung and feminism: Liberating archetypes.
+      Beacon Press.
+Young-Eisendrath, P. (1997). Gender and desire: Uncursing
+      Pandora. Texas A&M University Press.
 
 
 
 
-                                213
+                                226
                         12. Síntese tensa
  O que Jung e Deleuze compartilham apesar de tudo, e
                onde divergem irredutivelmente
@@ -6533,7 +6970,7 @@ sua solução.
 
 
 
-                                214
+                                227
 12.1 Primeira convergência: o inconsciente produtivo
         A primeira convergência é também a mais evidente. Tanto
 Jung quanto Deleuze romperam com a concepção freudiana do
@@ -6545,7 +6982,7 @@ consciência e que emergem dele com uma autonomia que a
 consciência não controla. Os sonhos, nessa perspectiva, não se
 limitam a disfarçar desejos passados; exercem também uma função
 prospectiva, antecipando possibilidades que a consciência ainda não
-formulou217.
+formulou242.
         Deleuze e Guattari levaram essa ruptura ainda mais longe, ao
 substituir a imagem do inconsciente como teatro pela imagem do
 inconsciente como fábrica. O inconsciente não representa: produz.
@@ -6558,12 +6995,12 @@ inconsciente não pode ser compreendida como uma oposição
 estática entre dois domínios dados, cada um com os seus conteúdos.
 Ela é, antes, a relação entre um campo já organizado e um processo
 
-217
+242
    Jung, C. G. (2014b). Aspectos gerais da psicologia do sonho. In A natureza da
 psique (Obras completas, Vol. VIII/2, §§443-529). Vozes. (Trabalho original
 publicado em 1916/1948). A função prospectiva do sonho é discutida em
 contraste com a função compensatória.
-                                     215
+                                     228
 que continua a produzir o que o campo não previu. Nesse sentido, a
 oposição consciente-inconsciente, que Jung formulou nos termos da
 representação, contém em si a possibilidade de uma leitura em
@@ -6586,18 +7023,18 @@ merece ser explicitada. Jung distinguia, na interpretação dos
 conteúdos inconscientes, entre um método redutivo, que reconduz o
 conteúdo às suas causas, e um método que ele chamava de sintético
 ou construtivo, que procura desenvolver o conteúdo em direção ao
-que ele anuncia218. A imaginação ativa, técnica que Jung
+que ele anuncia243. A imaginação ativa, técnica que Jung
 desenvolveu a partir de sua própria experiência nos anos da Primeira
-218
+243
    Jung, C. G. (2013e). Psicologia do inconsciente (Obras completas, Vol. VII/1,
 cap. VI, "O método sintético ou construtivo", §§121-140). Vozes. (Trabalho
 original publicado em 1917/1943). A distinção entre método redutivo e método
 sintético ou construtivo é apresentada na discussão do caso clínico que ocupa os
 capítulos centrais do ensaio.
-                                     216
+                                     229
 Guerra, é a forma prática desse método: o analisando não interpreta
 a imagem, mas dialoga com ela, deixa-a desenvolver-se, participa de
-sua transformação219. Não se trata de descobrir o que a imagem
+sua transformação244. Não se trata de descobrir o que a imagem
 significa, mas de acompanhar o que ela faz.
         Deleuze formula um princípio análogo: para ele, um
 problema se resolve por construção de soluções que ele suscita sem
@@ -6606,7 +7043,7 @@ Aprender, em Diferença e repetição, consiste em entrar em relação
 com um problema — conjugar os pontos notáveis do próprio corpo
 com os de um elemento exterior, como quem aprende a nadar
 ajustando os movimentos do corpo aos da onda —, e não em
-simplesmente passar da ignorância ao saber 220. A imagem do
+simplesmente passar da ignorância ao saber 245. A imagem do
 nadador que aprende a lidar com a onda sem dominá-la não está
 longe da imagem do analisando que aprende a dialogar com a figura
 interior sem reduzi-la a um significado.
@@ -6618,16 +7055,16 @@ símbolo em suas transformações sem pretender fixá-lo. Há dois
 
 
 
-219
+244
   Jung, C. G. (2014b). A função transcendente (Obras completas, Vol. VIII/2);
 ver também Jung, C. G. (2010). O livro vermelho: Liber novus (S. Shamdasani,
 Ed.). Vozes. (Trabalho original escrito entre 1914 e 1930).
-220
+245
   Deleuze, G. (2006). Diferença e repetição, cap. III, "A imagem do
 pensamento", seção "Que significa 'aprender'?", p. 159. O exemplo do
 aprendizado da natação é um dos mais conhecidos do livro; uma segunda
 ocorrência, mais breve, aparece no cap. IV, p. 182.
-                                    217
+                                    230
 Jungs, e a diferença entre eles corresponde, em larga medida, à
 diferença entre o símbolo vivo e o Selbst hipostasiado.
 
@@ -6642,7 +7079,7 @@ que o compensavam. Para Deleuze, que toma o conceito de
 empréstimo de Gilbert Simondon, a individuação é o processo pelo
 qual um campo pré-individual, carregado de potenciais e de tensões,
 se resolve parcialmente na formação de indivíduos, sem jamais
-esgotar-se neles221.
+esgotar-se neles246.
         O que os aproxima é a ideia de que o indivíduo é antes um
 resultado do que um ponto de partida — e um resultado nunca
 concluído. Em Jung, a individuação é uma tarefa de toda a vida, e o
@@ -6654,18 +7091,18 @@ caminho não termina.
 
 
 
-221
+246
    Simondon, G. (1995). L'individu et sa genèse physico-biologique. Éditions
 Jérôme Millon. (Trabalho original publicado em 1964, Presses Universitaires de
 France). Deleuze retoma a noção de individuação de Simondon no capítulo V de
 Diferença e repetição.
-                                    218
+                                    231
          Há, além disso, um parentesco na maneira de conceber o
 motor desse processo. Para Simondon, a individuação ocorre
 quando um sistema em estado de tensão — metaestável, carregado
 de potenciais incompatíveis — encontra uma estrutura que lhe
 permite resolver parcialmente essa tensão. O exemplo que ele utiliza
-é o do cristal que se forma numa solução supersaturada 222. É difícil
+é o do cristal que se forma numa solução supersaturada 247. É difícil
 não lembrar da imagem com que Jung descrevia o arquétipo como
 sistema axial de um cristal, e da sua concepção da energia psíquica
 como produto da tensão entre opostos. A individuação, nos dois
@@ -6680,20 +7117,20 @@ mandalas que Jung encontrou nos desenhos de seus pacientes, e que
 desenhou ele próprio durante os anos de confronto com o
 inconsciente, são a expressão visual dessa orientação: círculos,
 quadrados, figuras concêntricas que organizam a multiplicidade em
-torno de um centro223. Por mais que Jung insista em que a totalidade
+torno de um centro248. Por mais que Jung insista em que a totalidade
 
 
-222
+247
    Simondon, G. (1995). L'individu et sa genèse physico-biologique. Éditions
 Jérôme Millon. (Trabalho original publicado em 1964, Presses Universitaires de
 France), p. 31: "Un cristal qui, à partir d'un germe très petit, grossit et s'étend selon
 toutes les directions dans son eau-mère fournit l'image la plus simple de
 l'opération transductive".
-223
+248
    Jung, C. G. (2016b). Sobre o simbolismo da mandala. In Os arquétipos e o
 inconsciente coletivo (Obras completas, Vol. IX/1, §§627-718). Vozes. (Trabalho
 original publicado em 1950).
-                                          219
+                                          232
 jamais é alcançada, ela funciona como horizonte, e é em relação a
 ela que as etapas do processo adquirem sentido.
          Para Deleuze, não há totalidade que oriente a individuação.
@@ -6703,7 +7140,7 @@ Deleuze e Guattari opõem à árvore — o modelo hierárquico,
 genealógico, centrado, que organiza a multiplicidade a partir de uma
 raiz — é o rizoma: uma rede sem centro, em que qualquer ponto
 pode conectar-se a qualquer outro, e que não se deixa reconduzir a
-nenhuma unidade superior224. Se a mandala é a imagem junguiana da
+nenhuma unidade superior249. Se a mandala é a imagem junguiana da
 psique, o rizoma é a imagem deleuziana — e as duas imagens são
 incompatíveis.
          A incompatibilidade não deve ser atenuada. Não basta dizer
@@ -6718,12 +7155,12 @@ de grau.
          Proponho, no entanto, uma leitura da divergência que
 ilumina o que está em jogo no problema da hipostasiação. Talvez a
 
-224
+249
    Deleuze, G., & Guattari, F. (1995a). Introdução: rizoma. In Mil platôs:
 capitalismo e esquizofrenia (Vol. 1, A. Guerra Neto & C. P. Costa, Trad.). Editora
 34, platô 1. (Trabalho original publicado em 1980). A oposição entre árvore e
 rizoma, tal como resumida acima, é exposição nossa.
-                                      220
+                                      233
 totalidade junguiana seja indispensável como imagem — como
 aquilo que a psique produz quando precisa organizar-se diante do
 caos, e cuja função clínica Jung observou repetidamente nos
@@ -6741,7 +7178,7 @@ religiosa natural, e que a perda dessa função está na origem de boa
 parte do sofrimento moderno. O conceito de numinoso, que ele toma
 de Rudolf Otto, designa a qualidade de certas experiências psíquicas
 que se impõem com a força de algo absolutamente outro, que fascina
-e aterroriza ao mesmo tempo225. A experiência do numinoso é, para
+e aterroriza ao mesmo tempo250. A experiência do numinoso é, para
 Jung, o fundamento empírico da religião, e a psicologia complexa se
 apresenta como a disciplina capaz de reconhecê-la sem reduzi-la.
         Deleuze se situa no polo oposto. Toda a sua filosofia pode
@@ -6749,17 +7186,17 @@ ser lida como uma defesa da imanência contra a transcendência: não
 há nada fora do plano em que as coisas se produzem, nenhum além
 que lhes dê sentido, nenhuma instância que as julgue. Em O que é a
 
-225
+250
    Otto, R. (2007). O sagrado: os aspectos irracionais na noção do divino e sua
 relação com o racional (W. O. Schlupp, Trad.). Sinodal; Vozes. (Trabalho
 original publicado em 1917). Jung se apoia na noção de numinoso de Otto em
 Psicologia e religião (Obras completas, Vol. XI/1, §6).
-                                     221
+                                     234
 filosofia?, o último livro escrito com Guattari, a filosofia é definida
 pela instauração de um plano de imanência, e toda introdução de
 transcendência nesse plano é denunciada como ilusão — a ilusão
 que a religião, mas também certa filosofia, não cessam de
-reproduzir226. O modelo filosófico de Deleuze é Espinosa, o
+reproduzir251. O modelo filosófico de Deleuze é Espinosa, o
 pensador que identificou Deus e natureza e, com isso, retirou de
 Deus toda transcendência.
          A divergência é real, mas talvez menos simples do que
@@ -6781,25 +7218,25 @@ Em Jung, a tensão entre os opostos tem um portador: o eu. É o eu que
 precisa suportar a tensão, recusar-se a resolvê-la prematuramente
 pela identificação com um dos polos, e manter-se em relação com o
 
-226
+251
    Deleuze, G., & Guattari, F. (1992). O que é a filosofia? (B. Prado Jr. & A. A.
 Muñoz, Trad.). Editora 34, cap. 2, "O plano de imanência", pp. 49-79. (Trabalho
 original publicado em 1991).
-                                      222
+                                      235
 inconsciente sem ser engolido por ele. A função transcendente não
 opera à revelia do eu; ela exige a sua participação ativa, e Jung
 insiste repetidamente em que a atitude ética da consciência diante
 dos conteúdos inconscientes é decisiva para o curso do processo.
 Um eu fraco demais sucumbe à inflação ou à possessão; um eu
 rígido demais recalca o que emerge. A individuação depende de um
-eu capaz de suportar o que não compreende227.
+eu capaz de suportar o que não compreende252.
          Em Deleuze, esse portador desaparece. O eu é, para ele, uma
 das formas da captura molar — uma estabilização provisória que o
 devir atravessa e desfaz. A ética deleuziana, inspirada em Espinosa,
 é antes uma ética dos encontros do que uma ética do sujeito que
 suporta a tensão: trata-se de saber quais composições aumentam a
 potência de agir de um corpo e quais a diminuem, quais encontros
-produzem alegria e quais produzem tristeza228. Não há um centro que
+produzem alegria e quais produzem tristeza253. Não há um centro que
 deva manter-se firme; há relações de velocidade e lentidão, de afetar
 e ser afetado, que se compõem e se decompõem.
          A divergência tem implicações práticas que ultrapassam a
@@ -6809,16 +7246,16 @@ adverte expressamente contra a desestratificação brutal: é preciso
 conservar um mínimo de estratos, um mínimo de organismo, para
 
 
-227
+252
   Jung, C. G. (2014c). O eu e o inconsciente (Obras completas, Vol. VII/2,
 §§227-235). As discussões sobre a inflação e sobre a necessidade de confronto
 consciente com os conteúdos do inconsciente ocupam boa parte do ensaio.
-228
+253
    Deleuze, G. (1984). Spinoza: filosofía práctica (A. Escohotado, Trad.).
 Tusquets, p. 29, cap. 2, "Sobre la diferencia entre la Ética y una moral". (Trabalho
 original publicado em 1981).
-                                       223
-não se desfazer no processo.229 Se essas advertências têm, em Mil
+                                       236
+não se desfazer no processo.254 Se essas advertências têm, em Mil
 platôs, o estatuto de precaução ou o de princípio, é questão de
 leitura, e não pretendo decidi-la aqui. O que me interessa é que, em
 Jung, a preservação do eu não é precaução nenhuma: é constitutiva,
@@ -6841,18 +7278,18 @@ próprio relato, a manutenção de laços com a realidade cotidiana — a
 família, a profissão, os pacientes — e o esforço de dar forma, pela
 escrita e pela pintura, ao que emergia: nos momentos mais críticos,
 
-229
+254
    Deleuze, G., & Guattari, F. (1996). 28 de novembro de 1947 — Como criar para
 si um corpo sem órgãos? In Mil platôs: capitalismo e esquizofrenia (Vol. 3, A.
 Guerra Neto, A. L. de Oliveira, L. C. Leão & S. Rolnik, Trad.). Editora 34, platô 6.
 (Trabalho original publicado em 1980). A advertência contra a desestratificação
 brutal e a recomendação de conservar "um mínimo de estratos" estão nesse platô;
 o resumo acima é nosso.
-                                       224
+                                       237
 relata ele, voltou a construir vilarejos e castelos de pedra e barro à
 beira do lago, retomando um jogo de infância abandonado décadas
 antes, como se o gesto elementar de empilhar pedras pudesse
-ancorá-lo o bastante para suportar o que vinha de dentro 230. O eu,
+ancorá-lo o bastante para suportar o que vinha de dentro 255. O eu,
 nesse relato, é a condição para que o devir não se converta em
 catástrofe, não o seu obstáculo.
 
@@ -6876,11 +7313,11 @@ catástrofe, não o seu obstáculo.
       sinais de psicose e recomenda regular o sono. Nas sessões,
       propõe que ela deixe de pintar em casa por um tempo e
 
-230
+255
    Jung, C. G. (2016a). Memórias, sonhos, reflexões (A. Jaffé, Org.; D. F. da
 Silva, Trad.). Nova Fronteira, cap. VI, "Confronto com o inconsciente". (Trabalho
 original publicado em 1961).
-                                      225
+                                      238
     traga as imagens só para a análise, e aumenta a frequência
     para três vezes por semana. Ela aceita e comenta, entre
     aliviada e ressentida: "Então agora é você que segura."
@@ -6910,7 +7347,7 @@ nenhum dos dois havia planejado. A insistência junguiana no eu
 como portador descreve bem a primeira situação, e a ética
 deleuziana dos encontros talvez descreva melhor a última. O que a
 
-                                226
+                                239
 clínica exige é atenção ao momento em que o peso passa de um lugar
 a outro.
 
@@ -6939,7 +7376,7 @@ corre: o de fechar-se e o de perder toda forma.
        O terceiro traço é a vigilância contra a hipostasiação. A
 vigilância não consiste em encontrar o conceito imune, que não
 
-                                227
+                                240
 existe, mas em manter com os próprios conceitos uma relação que
 impeça a sua cristalização. Jung a formulou quando distinguiu o
 símbolo do sinal; Deleuze, quando fez da criação de conceitos uma
@@ -6969,7 +7406,7 @@ Deleuze, G., & Guattari, F. (1992). O que é a filosofia? (B. Prado Jr.
       & A. A. Muñoz, Trad.). Editora 34. (Trabalho original
       publicado em 1991)
 
-                                  228
+                                  241
 Deleuze, G., & Guattari, F. (1995a). Mil platôs: capitalismo e
       esquizofrenia (Vol. 1, A. Guerra Neto & C. P. Costa, Trad.).
       Editora 34. (Trabalho original publicado em 1980)
@@ -6998,7 +7435,7 @@ Simondon, G. (1995). L'individu et sa genèse physico-biologique.
 
 
 
-                                229
+                                242
                         13. Fechamento
     Por que a dialética psicológica só continua sendo
           psicologia enquanto permanece aberta
@@ -7028,7 +7465,7 @@ o símbolo como terceiro vivo, que contém a tensão sem resolvê-la
 compromisso, porém, mostrou-se frágil, e o Selbst tende a ser
 
 
-                                 230
+                                 243
 hipostasiado, convertido de conceito-limite em instância que orienta
 o processo e garante o seu resultado.
        A crítica de Giegerich respondeu a isso: a hipostasiação é
@@ -7056,7 +7493,7 @@ hipostasiação e a manutenção de um portador.
 com que o livro começou — qual dialética convém à psicologia? —
 não admite uma resposta que escolha uma das tradições contra as
 
-                                231
+                                244
 outras. A ordem das Estações sugere o contrário, e é preciso
 reconhecê-lo: dispostos de Hegel a Deleuze, com uma síntese tensa
 perto do fim, os capítulos têm a aparência de uma série de correções
@@ -7084,7 +7521,7 @@ negatividade hegeliana e a lacaniana, por exemplo, apesar do nome
 comum, não realizam a mesma operação. Mas encontrou também, e
 isso não estava garantido de antemão, um problema genuíno que
 
-                                 232
+                                 245
 atravessa os cinco vocabulários sem se reduzir a nenhum deles: o de
 saber se a diferença pode ser pensada sem que um dos termos em
 jogo funcione como medida do outro. Esse problema não teria
@@ -7113,7 +7550,7 @@ metafísico — um sujeito oculto por trás do processo, dotado de
 intenção e de finalidade. A palavra é a mesma; o uso é outro. E a
 passagem de um uso ao outro pode ocorrer sem que ninguém a
 
-                                 233
+                                 246
 perceba, na simples repetição de um vocabulário que se tornou
 familiar.
        O mesmo vale para os conceitos dos outros autores
@@ -7141,7 +7578,7 @@ não previram.
 descer do critério a alguns testes, porque é na forma de teste que ele
 chega à sessão — e quatro deles saem das próprias vinhetas deste
 
-                                 234
+                                 247
 livro, sem exigir mais do que a pergunta que o analista acabou por se
 fazer.
          O primeiro é o teste do achado que falta: diga, antes de olhar
@@ -7169,7 +7606,7 @@ ali, o programa se apresentava a ele como escuta.
 há ainda o que perguntar? Se o nome encerra o exame, o conceito
 fechou o caso em vez de abri-lo. É essa a diferença entre reconhecer
 
-                                  235
+                                  248
 a figura de "A mulher na ponte", na Estação 13, e reconhecê-la antes
 de terminar de ouvir o sonho.
          Nenhum dos quatro decide algo por si. São perguntas feitas
@@ -7182,7 +7619,7 @@ está vivo enquanto está prenhe de sentido — enquanto é a melhor
 expressão possível de algo que ainda não se conhece. Quando o seu
 sentido é dado, quando se encontra a expressão que formula melhor
 aquilo que ele exprimia, o símbolo está morto e passa a ter apenas
-valor histórico231. O que Jung dizia do símbolo vale, com igual rigor,
+valor histórico256. O que Jung dizia do símbolo vale, com igual rigor,
 para os conceitos da psicologia. Uma psicologia cujos conceitos
 estão    mortos    pode     continuar     a   produzir     interpretações,
 classificações e diagnósticos, mas já não é psicologia no sentido que
@@ -7197,11 +7634,11 @@ Jung dava à palavra: é a aplicação de uma doutrina.
       Numa ponte de madeira que treme, ela vai à frente e olha
       para trás. Numa escada que não termina, está sempre dois
 
-231
+256
   Jung, C. G. (2015d). Tipos psicológicos (Obras completas, Vol. VI, verbete
 "Símbolo", §905). Vozes. Paráfrase nossa. (Trabalho original publicado em
 1921).
-                                   236
+                                   249
 lances acima. Num terceiro sonho, já está na outra margem
 de um rio que ele precisa atravessar a nado, e acena.
 "Nunca vi essa mulher. E confio nela, é estranho", diz o
@@ -7232,7 +7669,7 @@ gentileza. Faltam quatro sessões para a mudança. Ele
 comparece a duas.
 
 
-                            237
+                            250
          Meses depois chega um e-mail curto: está bem, a
     cidade é bonita, pensa em retomar a análise por lá. O
     analista responde desejando sorte. Relendo as anotações
@@ -7262,9 +7699,9 @@ seus anos de prática psiquiátrica, ao dizer que o terapeuta precisa
 
 
 
-                                 238
+                                 251
 encontrar para cada paciente uma linguagem diferente, e que a teoria
-deve ceder diante da singularidade de quem está à sua frente232.
+deve ceder diante da singularidade de quem está à sua frente257.
          A terceira consequência é a mais delicada, porque diz
 respeito ao terceiro. Se o terceiro é abertura, e não resolução, o
 analista não pode esperar que a análise produza uma síntese — a
@@ -7290,10 +7727,10 @@ estar preso onde estava.
       pelo porão, uma casa sem a parede do fundo, um corredor que
       não termina. Devolve as perguntas que a própria imagem põe: de
       onde vem a água, o que havia naquela parede. Quando ela pede
-232
+257
    Jung, C. G. (2016a). Memórias, sonhos, reflexões, cap. IV, "Atividade
 psiquiátrica". Paráfrase nossa.
-                                    239
+                                    252
     uma resposta, ele diz que é cedo. Quando ela pergunta se as listas
     são um problema, ele responde com outra pergunta. As listas vão
     rareando sem que ninguém decida isso.
@@ -7325,7 +7762,7 @@ converta em colapso. Há momentos em que a tarefa do analista é
 ajudar o analisando a construir uma identidade suficientemente
 
 
-                                  240
+                                  253
 sólida para que o encontro com o inconsciente seja possível, e não
 desfazer a identidade que ele já tem. A abertura não é um valor
 absoluto; é uma exigência que precisa ser dosada pela capacidade de
@@ -7354,7 +7791,7 @@ perguntar quanto esta pessoa suporta — e isso não é um fato sobre o
 meu uso de um conceito, é um fato sobre outra pessoa, que eu teria
 de conhecer antes de agir. A dificuldade não é de sutileza clínica; é
 
-                                 241
+                                 254
 de estrutura. A única evidência de que alguém não suportava é que
 não suportou. Qualquer critério que eu aplicasse antes estaria
 predizendo, e predizer o quanto um outro aguenta é precisamente o
@@ -7382,7 +7819,7 @@ sessões, dinheiro. São indicadores grosseiros, e é essa a sua virtude:
 não se deixam reinterpretar. O analista que lê duas semanas de falta
 como resistência desativou o próprio instrumento, porque
 
-                                 242
+                                 255
 transformou em conteúdo psíquico aquilo que servia de medida
 externa. Convém decidir de antemão uma lista curta e aceitar, em
 relação a ela, uma interdição hermenêutica: aqui não se interpreta.
@@ -7411,10 +7848,10 @@ larga medida, a história das tentativas de fixar a sua doutrina e das
 reações a essas tentativas. Andrew Samuels, num estudo que se
 tornou referência, distinguiu três grandes escolas pós-junguianas —
 
-                                 243
+                                 256
 a clássica, a desenvolvimentista e a arquetípica —, cada uma das
 quais privilegiou um aspecto da obra de Jung em detrimento dos
-outros233. Giegerich, que não se deixa situar em nenhuma delas, pode
+outros258. Giegerich, que não se deixa situar em nenhuma delas, pode
 ser lido como uma quarta via, que recusa ao mesmo tempo o centro
 clássico e a multiplicidade arquetípica.
         O que o percurso deste livro sugere é que nenhuma dessas
@@ -7436,12 +7873,12 @@ que este livro empreendeu não pretendeu submeter Jung ao juízo
 desses autores, mas mostrar que a obra de Jung se ilumina quando
 exposta a eles — e que, em alguns pontos, ela tem algo a lhes dizer.
 
-233
+258
    Samuels, A. (1985). Jung and the post-Jungians. Routledge & Kegan Paul, cap.
 1, "Schools of analytical psychology", p. 12: "My hypothesis is that there are
 indeed three main schools. We can call these the Classical School, the
 Developmental School and the Archetypal School".
-                                     244
+                                     257
 A abertura teórica é condição de vida, não concessão: uma tradição
 que só dialoga consigo mesma acaba por repetir-se, e a repetição,
 como Deleuze mostrou, só é criadora quando introduz diferença.
@@ -7470,10 +7907,20 @@ difícil de refutar. E ela não depende da ideia de que a família seja
 abandonada pelo sistema: a §3.4 mostra que, nas Linhas
 fundamentais, a família permanece como esfera da eticidade — e
 
-                                245
+                                258
 que é justamente ali, no Hegel maduro que prescreve em vez de
 descrever, que o lugar atribuído ao feminino deixa de poder ser
 debitado à Grécia.
+       O fio do feminino foi seguido também, na §11.7, no interior
+da própria psicologia analítica. A busca ali não encontrou quem
+formulasse a anima como o termo a subsumir, mas encontrou, em
+Wehr e em Young-Eisendrath, o núcleo da objeção em vocabulário
+próprio — a complementaridade entre os sexos como pressuposto, e
+não como achado — e, no próprio Jung, a frase que permite sustentá-
+lo: a sizígia masculino-feminino é apenas um dos possíveis pares de
+opostos. Se a conexão com a Aufhebung é original deste livro, é
+original com essa reserva, porque repousa numa busca que declarei
+não exaustiva.
        Isso não significa que o feminino seja um conceito
 privilegiado, nem que exista uma essência feminina que as dialéticas
 examinadas teriam traído. Significa que, numa cultura em que o
@@ -7487,7 +7934,10 @@ visível de um ângulo diferente, e a psicologia que quiser permanecer
 aberta precisa sustentar esse problema sem pretender encerrá-lo.
 
 
-13.7 Por que permanecer aberta
+
+
+                                259
+13.7 Por que permanecer aberta
        Resta responder à pergunta: por que a dialética psicológica
 só continua sendo psicologia enquanto permanece aberta? A
 resposta pode agora ser dada em três níveis.
@@ -7498,9 +7948,7 @@ pode antecipar o resultado da experiência; se o fizer, estará
 afirmando algo que a experiência ainda não mostrou, e portanto algo
 que não pertence à psicologia. A dialética fechada — aquela que
 sabe de antemão para onde o processo conduz — é, por definição,
-
-                                246
-uma dialética que ultrapassou o domínio da experiência. Ela pode
+uma dialética que ultrapassou o domínio da experiência. Ela pode
 ser verdadeira ou falsa, mas não é psicológica.
        No nível ontológico, a abertura corresponde à natureza do
 objeto. Se a psique é produtiva, como Jung e Deleuze concordaram
@@ -7515,7 +7963,9 @@ uma escolha metodológica arbitrária.
 devida àquele que sofre. O analisando não é um caso de uma teoria,
 nem um exemplar de um tipo, nem uma etapa de um processo cujo
 sentido o analista conheceria melhor do que ele. É alguém cuja
-experiência excede tudo o que se pode dizer dela, e que tem o direito
+
+                                260
+experiência excede tudo o que se pode dizer dela, e que tem o direito
 de não ser reduzido ao que já se sabe. Uma dialética fechada, por
 mais sofisticada que seja, trata o analisando como momento de um
 percurso que o ultrapassa — exatamente como a dialética hegeliana
@@ -7525,11 +7975,7 @@ conceitos, às teorias, às hipóteses sobre o sentido do processo
 psíquico. Uma psicologia sem conceitos não seria mais aberta; seria
 apenas muda. O que a exigência de abertura pede é que os conceitos
 sejam mantidos vivos — que funcionem como símbolos, no sentido
-
-
-
-                                247
-junguiano, e não como sinais; como problemas, no sentido
+junguiano, e não como sinais; como problemas, no sentido
 deleuziano, e não como soluções.
        Este livro não escapa a essa exigência. O percurso por Hegel,
 Jung, Giegerich, Lacan e Deleuze não conduziu a uma síntese, e isso
@@ -7545,7 +7991,9 @@ de sua doutrina, mas ao movimento que a produziu.
 livro, e que se repetiu com mais de um analisando. Quem se sentia, a
 um só tempo, dissolvido por aquilo que o atravessava e mantido de
 pé por algo que resistia a esse mesmo movimento não estava me
-pedindo uma teoria que resolvesse a contradição; estava me pedindo
+
+                                 261
+pedindo uma teoria que resolvesse a contradição; estava me pedindo
 que eu permanecesse nela o tempo suficiente para que ela mostrasse
 o que tinha a mostrar. Foi esse pedido, formulado sem nenhum
 vocabulário técnico muito antes de eu dispor de um, que este livro
@@ -7555,11 +8003,7 @@ tentou honrar.
 Referências do capítulo
 Jung, C. G. (2014c). O eu e o inconsciente (Obras completas, Vol.
        VII/2). Vozes. (Trabalho original publicado em 1928)
-
-
-
-                                 248
-Jung, C. G. (2015d). Tipos psicológicos (Obras completas, Vol. VI).
+Jung, C. G. (2015d). Tipos psicológicos (Obras completas, Vol. VI).
        Vozes. (Trabalho original publicado em 1921)
 Jung, C. G. (2016a). Memórias, sonhos, reflexões (A. Jaffé, Org.; D.
        F. da Silva, Trad.). Nova Fronteira. (Trabalho original
@@ -7570,7 +8014,7 @@ Samuels, A. (1985). Jung and the post-Jungians. Routledge &
 
 
 
-                                249
+                                262
                              Glossário
                 Conceitos centrais do percurso
 
@@ -7600,7 +8044,7 @@ mulheres, que dá à psique profundidade e relação com as imagens.
 arquétipo em si, irrepresentável e conhecido apenas por seus efeitos,
 da imagem arquetípica, que é a sua manifestação na consciência. A
 distinção, de inspiração kantiana, é o ponto de partida tanto da crítica
-                                 250
+                                 263
 de Giegerich (que vê nela um resto substancialista) quanto da leitura
 deleuziana do arquétipo como problema virtual.
 
@@ -7630,7 +8074,7 @@ todos os outros devires.
 
        Diferença em si mesma. Em Deleuze, a diferença pensada
 independentemente das formas da representação que a subordinam à
-                                  251
+                                  264
 identidade — identidade no conceito, oposição nos predicados,
 analogia no juízo e semelhança na percepção. O negativo seria a
 diferença invertida, vista a partir de uma identidade já constituída.
@@ -7659,7 +8103,7 @@ o emprega no fecho da Fenomenologia do espírito, a propósito do
 recolhimento interiorizante das figuras do espírito. Giegerich o
 retoma para nomear a operação pela qual um fenômeno psicológico
 é conduzido até a lógica que o constitui.
-                                 252
+                                 265
        Esse in anima. Fórmula que Jung introduz em Tipos
 psicológicos para designar a realidade viva enquanto produzida no
 processo psíquico, onde a ideia e a coisa se encontram e se
@@ -7688,7 +8132,7 @@ possível a passagem de uma atitude a outra por meio da união de
 conteúdos conscientes e inconscientes, e cujo produto é o símbolo.
 Trata-se de um processo psíquico observável, não de uma faculdade
 metafísica, e exige a participação ativa do eu.
-                                 253
+                                 266
        Hipostasiação. Conferir existência substancial àquilo que
 foi inicialmente apenas um modo de nomear; tomar uma abstração
 pelo concreto. Neste livro, o termo designa sobretudo a conversão
@@ -7718,7 +8162,7 @@ fuga, e não como síntese.
 quantitativa: a maioria é o padrão de medida (o homem adulto,
 branco, europeu), e a minoria, aquilo que é medido por ele. O devir-
 
-                                254
+                                267
 minoritário é o processo pelo qual qualquer um, inclusive quem
 ocupa a posição majoritária, desfaz a sua identidade com o padrão.
 
@@ -7749,7 +8193,7 @@ Para Jung, é o fundamento empírico da religião.
 
 
 
-                                255
+                                268
         Objeto a. Em Lacan, o resto que a operação simbólica deixa
 e que causa o desejo. Os objetos empíricos que o sujeito deseja
 ocupam provisoriamente o seu lugar, e nenhum deles coincide com
@@ -7778,7 +8222,7 @@ psicologia do numinoso.
 acréscimo de um quarto elemento à Trindade cristã, elemento que
 assume ao longo da obra as figuras do mal, do diabo, da matéria, do
 corpo e do feminino. Jung leu esse acréscimo como progresso da
-                                  256
+                                  269
 imagem de Deus, que assim admitiria o que o cristianismo recalcara.
 Giegerich o leu como regressão, por reconduzir o espírito à natureza,
 o conceito à imagem e o movimento lógico a uma figura estática.
@@ -7808,7 +8252,7 @@ sinal.
 
          Terceiro vivo. Expressão usada neste livro para designar o
 produto da função transcendente: uma imagem que contém a tensão
-                                 257
+                                 270
 entre os opostos sem dissolvê-la num conceito superior. Opõe-se ao
 resultado da Aufhebung hegeliana.
 
@@ -7820,7 +8264,7 @@ possível, que seria uma cópia antecipada do real.
 
 
 
-                                258
+                                271
                            Referências
 Adler, G., & Jaffé, A. (Eds.). (1975). C. G. Jung Letters, Vol. 2:
        1951-1961 (R. F. C. Hull, Trad.). Princeton University Press.
@@ -7851,7 +8295,7 @@ Deleuze, G., & Guattari, F. (1992). O que é a filosofia? (B. Prado Jr.
       & A. A. Muñoz, Trad.). Editora 34. (Trabalho original
       publicado em 1991)
 
-                                 259
+                                 272
 Deleuze, G., & Guattari, F. (1995a). Mil platôs: capitalismo e
       esquizofrenia (Vol. 1, A. Guerra Neto & C. P. Costa, Trad.).
       Editora 34. (Trabalho original publicado em 1980)
@@ -7883,7 +8327,7 @@ Edinger, E. F. (1972). Ego and archetype: Individuation and the
        religious function of the psyche. Putnam, para a C. G. Jung
        Foundation for Analytical Psychology.
 
-                                260
+                                273
 Fordham, M. (1981). Neumann and childhood. Journal of
       Analytical Psychology, 26, 99-122.
 Fordham, M. (1995). Freud, Jung, Klein: The fenceless field (R.
@@ -7915,7 +8359,7 @@ Giegerich, W., Miller, D. L., & Mogenson, G. (2005). Dialectics &
        analytical psychology: The El Capitan Canyon seminar.
        Spring Journal Books.
 
-                                261
+                                274
 Grosz, E. (1994). Volatile bodies: Toward a corporeal feminism.
        Indiana University Press.
 Hallward, P. (2006). Out of this world: Deleuze and the philosophy
@@ -7948,7 +8392,7 @@ Hegel, G. W. F. (2016). Ciência da lógica: 1. A doutrina do ser (C.
 
 
 
-                                262
+                                275
 Hegel, G. W. F. (2022). Linhas fundamentais da filosofia do direito
        (M. L. Müller, Trad.). Editora 34. (Trabalho original
        publicado em 1820)
@@ -7980,7 +8424,7 @@ Jung, C. G. (1960, 21 de janeiro). [Carta ao editor]. The Listener, p.
 
 
 
-                                 263
+                                 276
 Jung, C. G. (1971). Psychological Types (R. F. C. Hull, Trad.;
        Collected Works, Vol. 6). Princeton University Press.
        (Trabalho original publicado em 1921)
@@ -7989,7 +8433,8 @@ Jung, C. G. (1978). Psicologia e religião (Obras completas, Vol.
 Jung, C. G. (2010). O livro vermelho: Liber novus (S. Shamdasani,
        Ed.). Vozes.
 Jung, C. G. (2013a). A prática da psicoterapia (Obras completas,
-       Vol. XVI/1). Vozes.
+       Vol. XVI/1). Vozes. (Trabalhos originais publicados entre
+       1929 e 1951)
 Jung, C. G. (2013b). Ab-reação, análise dos sonhos e transferência
        (Obras completas, Vol. XVI/2). Vozes. (Trabalho original
        publicado em 1946)
@@ -8010,9 +8455,7 @@ Jung, C. G. (2014b). A natureza da psique (Obras completas, Vol.
        VIII/2). Vozes. (Trabalho original publicado em 1947/1954)
 Jung, C. G. (2014c). O eu e o inconsciente (Obras completas, Vol.
        VII/2). Vozes. (Trabalho original publicado em 1928)
-
-
-                               264
+                               277
 Jung, C. G. (2015a). A vida simbólica (Obras completas, Vol.
        XVIII/2). Vozes. (Trabalho original publicado em 1952)
 Jung, C. G. (2015b). Aion: estudos sobre o simbolismo do si-mesmo
@@ -8044,7 +8487,7 @@ Khatab, R. (2006). Ethical consciousness in the spirit of tragedy:
       76-98.
 
 
-                                265
+                                278
 Kojève, A. (1980). Introduction to the reading of Hegel: Lectures
       on the Phenomenology of Spirit (J. H. Nichols Jr., Trad.; A.
       Bloom, Ed.). Cornell University Press. (Trabalho original
@@ -8076,7 +8519,7 @@ Mills, J. (2023). Jung on transcendence. Jung Journal: Culture &
         https://doi.org/10.1080/19342039.2023.2225749
 
 
-                               266
+                               279
 Mills, P. J. (1986). Hegel's Antigone. The Owl of Minerva, 17(2),
         131-152.
 Mueller, G. E. (1958). The Hegel legend of "Thesis-Antithesis-
@@ -8100,15 +8543,18 @@ Pippin, R. B. (1989). Hegel's Idealism: The Satisfactions of Self-
 Roche, M. W. (1991). [Resenha de Hegel's Idealism: The
       Satisfactions of Self-Consciousness, de R. B. Pippin].
       German Studies Review, 14(1), 171-172.
+Rowland, S. (2024). Jung: uma revisão feminista (V. C. H.
+      Richardson, Trad.). Vozes. (Trabalho original publicado em
+      2002)
 Samuels, A. (1985). Jung and the post-Jungians. Routledge &
       Kegan Paul.
 Segal, R. A. (1987). Jung and Gnosticism. Religion, 17(4), 301-336.
        https://doi.org/10.1016/0048-721X(87)90057-1
-Shamdasani, S. (2003). Jung and the Making of Modern
+                                280
+Shamdasani, S. (2003). Jung and the Making of Modern
       Psychology: The Dream of a Science. Cambridge University
       Press.
-                                267
-Simondon, G. (1995). L'individu et sa genèse physico-biologique.
+Simondon, G. (1995). L'individu et sa genèse physico-biologique.
       Éditions Jérôme Millon. (Trabalho original publicado em
       1964, Presses Universitaires de France)
 Sófocles. (s.d.). Antígona (S. M. de Regino, Trad. e notas). Martin
@@ -8117,10 +8563,14 @@ Urban, E. (s.d.). Fordham's model of development. The Society of
        Analytical Psychology. https://www.thesap.org.uk/articles-
        on-jungian-psychology-2/michael-fordham/fordham-
        model-development/
+Wehr, D. S. (1987). Jung and feminism: Liberating archetypes.
+      Beacon Press.
 Whitehead, A. N. (1925). Science and the modern world.
       Macmillan.
 Winborn, M. (Ed.). (2014). Shared realities: Participation mystique
       and beyond. Fisher King Press.
+Young-Eisendrath, P. (1997). Gender and desire: Uncursing
+      Pandora. Texas A&M University Press.
 Žižek, S. (2005). Lacan: At what point is he Hegelian? In R. Butler
        & S. Stephens (Eds.), Interrogating the real. Continuum.
        (Publicado originalmente em francês em 1988)
@@ -8130,7 +8580,7 @@ Winborn, M. (Ed.). (2014). Shared realities: Participation mystique
 
 
 
-                               268
+                               281
                       Índice onomástico
 As páginas remetem ao corpo do texto e às citações em destaque.
 Ficam fora as listas de referências, o glossário e as notas de rodapé
@@ -8140,83 +8590,88 @@ discutidas no argumento aparecem na mesma ordem alfabética dos
 autores.
 
 Antígona (personagem), 11, 17, 40-46, 49, 54, 58, 61-63, 140, 147,
-    156-157, 197, 202-203, 230, 232, 245-247
+    156-157, 204, 209-210, 243, 245, 258-259, 261
 Astor, James, 115
-Braidotti, Rosi, 205-206
+Braidotti, Rosi, 212-213, 218
 Brooke, Roger, 95
 Brooks, Robin McCoy, 93
 Buber, Martin, 87, 90, 97-98, 120, 144
-Butler, Judith, 61-62
+Butler, Judith, 61-62, 218
 Carus, Carl Gustav, 6
-Creonte, 41, 43, 49, 58, 61-62, 245
+Castillejo, Irene Claremont de, 222
+Creonte, 41, 43, 49, 58, 61-62, 258
 Cristo, 144, 146
 Deleuze, Gilles, passim; exposição principal nas Estações 10 e 11,
-    pp. 172-212
-Dosse, François, 193
+    pp. 172-225
+Dosse, François, 200
 Drob, Sanford, 97
 Edinger, Edward F., 105, 108-112, 114, 116-118
-Édipo, 6, 187-191, 193
-Espinosa, Benedictus de, 11, 222-223
+Édipo, 6, 194-198, 200
+Espinosa, Benedictus de, 11, 235-236
 Fordham, Michael, 112-117
 Freeman, John, 94-96
-Freud, Sigmund, 67, 113, 157, 185, 188-189, 192, 224
-Giegerich, Wolfgang, passim; exposição principal nas Estações 7 e
-    8, pp. 120-154
+Freud, Sigmund, 67, 113, 157, 192, 195-196, 199, 237
 
-                                269
-Grosz, Elizabeth, 206
-Guattari, Félix, 6-7, 17-18, 179, 187-190, 193-194, 197-203, 206-
-     207, 215, 220, 222-224
+
+                                282
+Giegerich, Wolfgang, passim; exposição principal nas Estações 7 e
+     8, pp. 120-154
+Goldenberg, Naomi, 220, 224
+Grosz, Elizabeth, 213, 218
+Guattari, Félix, 6-7, 17-18, 179, 194, 196-197, 200-201, 204-210,
+     213-214, 228, 233, 235-237
 Hegel, G. W. F., passim; exposição principal nas Estações 2 e 3,
      pp. 20-65
 Heidegger, Martin, 125-126
-Hillman, James, 103, 120, 208
+Hillman, James, 103, 120, 215, 223
 Hull, R. F. C., 11
 Hyppolite, Jean, 172
-Irigaray, Luce, 41, 54-59, 168, 202
-Jardine, Alice, 204
+Irigaray, Luce, 41, 54-59, 168, 209, 218
+Jardine, Alice, 211, 218
 Jones, Raya, 83-84
 Jung, C. G., passim; exposição principal nas Estações 4, 5 e 6, pp.
      67-118
-Kant, Immanuel, 6, 33, 90-91, 96
+Kant, Immanuel, 6, 33, 90-91, 96, 186
 Kelly, Sean M., 75-76
 Kerslake, Christian, 183
 Klein, Melanie, 113
-Kojève, Alexandre, 157-158, 172, 187
+Kojève, Alexandre, 157-158, 172, 194
 Lacan, Jacques, passim; exposição principal na Estação 9, pp. 156-
      170
 Malabou, Catherine, 23-24, 37
-Maroni, Amnéris, 190
+Maroni, Amnéris, 197
 Miller, A. V., 11
 Miller, David L., 144
 Miller, Jeffrey C., 73
 Mills, Jon, 75-77
 Mogenson, Greg, 154
-Neumann, Erich, 105-108, 112-113, 116-117
+                               283
+Neumann, Erich, 105-108, 112-113, 116-117
 Nietzsche, Friedrich, 11, 172, 179
-
-
-                               270
-Otto, Rudolf, 221
+Otto, Rudolf, 234
 Pinkard, Terry, 23, 34-37, 59, 64
 Pippin, Robert B., 23, 33-35, 37, 59
 Platão, 8, 182
 Polinices, 41
-Samuels, Andrew, 112, 115-116, 243
+Rose, Jacqueline, 221
+Rowland, Susan, 221-222
+Samuels, Andrew, 112, 115-116, 256
 Schleiermacher, Friedrich, 6
 Schopenhauer, Arthur, 6
 Segal, Robert A., 96-98
 Shamdasani, Sonu, 88
 Silveira, Nise da, 7
-Simondon, Gilbert, 218-219
+Simondon, Gilbert, 231-232
 Sófocles, 40, 45, 50, 61
 Urban, Elizabeth, 114, 116-117
+Wehr, Demaris S., 218-224, 259
 Whitehead, Alfred North, 101
 Winborn, Mark, 112
+Young-Eisendrath, Polly, 220-221, 259
 Žižek, Slavoj, 153
 
 
 
 
-                              271
+                            284
 
