@@ -180,6 +180,7 @@ extraído pelo conector termina antes do cap. 3).
   *Jung: o poeta da alma* (Summus, 1998). Dosse não está no Drive.
 - ⬜ **Baillie, §472**: página não confirmada (não há Baillie no Drive).
 - ⬜ **Paginação de Deleuze** (digital × impressa): decisão do autor antes de imprimir.
+- ✅ **Duas linhas finais da Estação 1**: removida a última ("O último a sair que apague as luzes!"), mantida "No mais, eu também estou em dúvida." (dois pareceristas apontaram; reversível). Decisão de Pedro, se quiser restaurar.
 - ⬜ **Epígrafe** "Pluribus probus, pluribus vilis": decisão do autor.
 
 ### 4.4 Decisões estruturais que continuam abertas
