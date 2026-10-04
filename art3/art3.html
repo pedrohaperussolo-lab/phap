@@ -1,0 +1,28 @@
+<!doctype html><meta charset="utf-8"><title>art. 3º</title>
+<style>
+html,body{margin:0;background:#e0001a}
+#p{position:absolute;left:60px;top:70px;width:960px;font-family:"Helvetica Neue",Helvetica,Arial,"Liberation Sans",sans-serif;font-weight:700;text-align:justify;line-height:1.3;color:#0a0000}
+.b{background:#0a0000;color:transparent;border-radius:1px}
+.k{color:#fff;letter-spacing:-.02em}
+#f{position:absolute;left:60px;bottom:50px;font:400 28px "Helvetica Neue",Helvetica,Arial,"Liberation Sans",sans-serif;color:#0a0000;letter-spacing:.02em}
+</style>
+<div id="p"></div><div id="f">Constituição Federal, 1988 · art. 3º</div>
+<script>
+const txt="Art. 3º Constituem objetivos fundamentais da República Federativa do Brasil: I construir uma sociedade livre, justa e solidária; II garantir o desenvolvimento nacional; III erradicar a pobreza e a marginalização e reduzir as desigualdades sociais e regionais; IV promover o bem de todos, sem preconceitos de origem, raça, sexo, cor, idade e quaisquer outras formas de discriminação.";
+// palavras mantidas -> tamanho relativo
+const keep={"construir":1.7,"sociedade":1.7,"justa":3.6,"erradicar":2.2,"pobreza":3.4,"reduzir":2.2,"desigualdades":1.55,"promover":2.2,"bem":3.6,"todos":5.2};
+const toks=txt.split(" ");
+let firstBem=true;
+function build(base){
+ const p=document.getElementById('p');p.style.fontSize=base+'px';p.innerHTML='';
+ toks.forEach((t,i)=>{
+  const w=t.replace(/[,;:.]/g,'').toLowerCase();
+  const s=document.createElement('span');
+  if(keep[w]){s.className='k';s.style.fontSize=(base*keep[w])+'px';s.textContent=w;}
+  else{s.className='b';s.textContent=t;}
+  p.appendChild(s);p.appendChild(document.createTextNode(' '));
+ });
+ return p.offsetHeight;
+}
+let lo=14,hi=60;for(let n=0;n<20;n++){const m=(lo+hi)/2;build(m)>1420?hi=m:lo=m}build(lo);
+</script>
